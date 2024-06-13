@@ -1,5 +1,6 @@
 import numpy as np
 
+#基地类
 class Base:
     def __init__(self,x,y,fuel,missile,defense,value):
         #坐标
@@ -23,11 +24,13 @@ class Base:
     def suffer_attack(self):
         self.defense -= 1
 
+#蓝方基地
 class BlueBase(Base):
      def __init__(self, x, y, fuel, missile, defense, value):
         super().__init__(x, y, fuel, missile, defense, value)
         self.factions=0
 
+#红方基地
 class RedBase(Base):
     def __init__(self, x, y, fuel, missile, defense, value):
         super().__init__(x, y, fuel, missile, defense, value)
@@ -39,6 +42,7 @@ class RedBase(Base):
             return self.value
         return -1
 
+#飞机
 class Plane:
 
     def __init__(self, id, x, y, fuel_capacity,missile_capacity):
@@ -46,9 +50,9 @@ class Plane:
         self.x=x
         self.y=y
         self.fuel_capacity=fuel_capacity
-        self.fuel=self.fuel_capacity
+        self.fuel = 0
         self.missile_capacity=missile_capacity
-        self.missile = self.missile_capacity
+        self.missile = 0
         
     #上下左右 1234
     def move(self,direction):
@@ -72,12 +76,8 @@ class Plane:
     def fuel(self,fuel_count):
         self.fuel += fuel_count
 
-
+#地图
 class Map:
-
-
-
-
     def __init__(self,filepath):
         with open(filepath, 'r') as f:
             #读取地图大小
@@ -85,9 +85,15 @@ class Map:
             num_xy= [int(num) for num in line.split()]
             self.length = num_xy[0]
             self.width = num_xy[1]
-            #跳过*,#,.
-            for _ in range(self.length):
-                f.readline()
+
+            # 初始化地图网格
+            self.map = [['' for _ in range(self.width)] for _ in range(self.length)]
+
+            # 读取地图信息
+            for i in range(self.length):
+                line = f.readline()
+                for j in range (self.width):
+                    self.map[i][j]=line[j]
             #读取蓝方基地
             line = f.readline()
             self.num_of_blue = int(line) 
@@ -120,14 +126,3 @@ class Map:
                 line = f.readline()
                 plane_info=[int(num) for num in line.split()]
                 self.Planes.append(Plane(_,plane_xy[0],plane_xy[1],plane_info[0],plane_info[1]))
-    
-
-
-def main():
-    filepath = "data/testcase1.in"
-    map=Map(filepath)
-
-if __name__ == '__main__':
-    main()
-
-
