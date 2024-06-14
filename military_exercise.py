@@ -1,5 +1,8 @@
 import numpy as np
 
+ALPHA = 0.2     #防御影响因子
+BETA  = 0.5     #距离影响因子
+
 #基地类
 class Base:
     def __init__(self,x,y,fuel,missile,defense,value):
@@ -45,27 +48,32 @@ class RedBase(Base):
 #飞机
 class Plane:
 
+
     def __init__(self, id, x, y, fuel_capacity,missile_capacity):
-        self.id=id
-        self.x=x
-        self.y=y
-        self.fuel_capacity=fuel_capacity
-        self.fuel = 0
-        self.missile_capacity=missile_capacity
-        self.missile = 0
+        self.id=id  #飞机id
+        self.x=x    #飞机x坐标
+        self.y=y    #飞机y坐标
+        self.fuel_capacity=fuel_capacity    #飞机油箱容量
+        self.fuel = 0   #飞机当前油量
+        self.missile_capacity=missile_capacity  #飞机弹药容量
+        self.missile = 0    #飞机当前弹药量
+        self.state = 0      #飞机状态，0为补给状态，1为攻击状态，初始为补给状态
+        self.attack_target = -1     #飞机攻击目标  为红方基地id，初始为-1
+        self.supply_target = -1     #飞机补给目标  为蓝方基地id，初始为-1
+
         
-    #上下左右 1234
+    #上下左右 0123
     def move(self,direction):
-        if(direction == 1):
+        if(direction == 0):
             #向上方移动
             self.x -= 1
-        elif(direction == 2):
+        elif(direction == 1):
             #向下方移动
             self.x += 1
-        elif(direction == 3):
+        elif(direction == 2):
             #向左移动
             self.y -= 1
-        elif(direction == 4):
+        elif(direction == 3):
             #向右移动
             self.y += 1
         self.fuel -= 1
@@ -126,3 +134,29 @@ class Map:
                 line = f.readline()
                 plane_info=[int(num) for num in line.split()]
                 self.Planes.append(Plane(_,plane_xy[0],plane_xy[1],plane_info[0],plane_info[1]))
+
+    #针对某一飞机确定其攻击目标
+    def find_attack_target(self,plane_id):
+        plane = self.Planes[plane_id]
+        attack_target = -1
+        attack_target_w = 0
+
+        for redBase in self.RedBases:
+            #计算该红方基地对于飞机的倾向性
+            value = redBase.value
+            defense = redBase.defense
+            distance = np.abs(redBase.x - plane.x) + np.abs(redBase.y - plane.y)
+            w_red = value - ALPHA * defense - BETA * distance
+            #如果倾向性更大或当前无目标
+            if w_red > attack_target_w or attack_target == -1 :
+                attack_target = redBase.id
+                attack_target_w = w_red
+        
+        plane.attack_target = attack_target
+        return 
+    
+    def find_supply_target(self,plane_id):
+        
+
+
+
