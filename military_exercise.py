@@ -135,6 +135,19 @@ class Map:
                 plane_info=[int(num) for num in line.split()]
                 self.Planes.append(Plane(_,plane_xy[0],plane_xy[1],plane_info[0],plane_info[1]))
 
+    def distance_from_plane_to_base(self,plane_id,base_id,base_type):
+        plane = self.Planes[plane_id]
+        if base_type == 0:
+            base = self.BlueBases[base_id]
+        elif base_type == 1:
+            base = self.RedBases[base_id]
+        else:
+            return -1
+
+        distance = np.abs(Base.x - plane.x) + np.abs(Base.y - plane.y)
+        return distance
+
+
     #针对某一飞机确定其攻击目标
     def find_attack_target(self,plane_id):
         plane = self.Planes[plane_id]
@@ -145,7 +158,7 @@ class Map:
             #计算该红方基地对于飞机的倾向性
             value = redBase.value
             defense = redBase.defense
-            distance = np.abs(redBase.x - plane.x) + np.abs(redBase.y - plane.y)
+            distance = self.distance_from_plane_to_base(plane_id, redBase.id, base_type=1)
             w_red = value - ALPHA * defense - BETA * distance
             #如果倾向性更大或当前无目标
             if w_red > attack_target_w or attack_target == -1 :
@@ -155,8 +168,104 @@ class Map:
         plane.attack_target = attack_target
         return 
     
-    def find_supply_target(self,plane_id):
-        
+    #针对某一飞机,根据其缺油或缺弹状态确定其补给目标  supply_type为缺失类型 0为缺油，1为缺弹，2为都缺
+    def find_supply_target(self,plane_id,supply_type):
+        plane = self.Planes[plane_id]
+        supply_target = -1
+        supply_distance = -1
+        supply_fuel = 0
+        supply_missile = 0
 
+        for blueBase in self.BlueBases:
+            now_supply_distance = self.distance_from_plane_to_base(plane_id, blueBase.id, base_type=0)
+            ask_missile = plane.missile_capacity - plane.missile
 
+            if now_supply_distance > plane.fuel:
+                continue
 
+            if blueBase.fuel > plane.fuel_capacity - (plane.fuel - now_supply_distance):
+                now_supply_fuel = 1
+            else:
+                now_supply_fuel = 0
+            
+            if blueBase.missile > ask_missile:
+                now_supply_missile = 1
+            else:
+                now_supply_missile = 0
+
+            #当前无目标
+            if supply_target == -1:
+                supply_target = blueBase.id
+                supply_distance = now_supply_distance
+                supply_fuel = now_supply_fuel
+                supply_missile = now_supply_missile
+                continue
+            #缺油   优先选能补满油 其次选最近
+            if supply_type == 0 :
+                if supply_fuel == 0 :
+                    if now_supply_fuel == 0 and now_supply_distance > supply_distance :
+                        continue
+                elif supply_fuel == 1 :
+                    if now_supply_fuel == 0 :
+                        continue
+                    elif now_supply_fuel == 1 :
+                        if now_supply_distance > supply_distance :
+                            continue
+
+                supply_target = blueBase.id
+                supply_distance = now_supply_distance
+                supply_fuel = now_supply_fuel
+                supply_missile = now_supply_missile
+
+            #缺弹   优先选能补满弹  其次选最近
+            elif supply_type == 1 :
+                if supply_missile == 0 :
+                    if now_supply_missile == 0 and now_supply_distance > supply_distance :
+                        continue
+                elif supply_missile == 1 :
+                    if now_supply_missile == 0 :
+                        continue
+                    elif now_supply_missile == 1 :
+                        if now_supply_distance > supply_distance :
+                            continue
+
+                supply_target = blueBase.id
+                supply_distance = now_supply_distance
+                supply_fuel = now_supply_fuel
+                supply_missile = now_supply_missile    
+
+            #都缺   优先都补满   其次选能补满油  然后能补满弹  最后距离最近
+            elif supply_type == 2 :
+                if supply_fuel == 1 and supply_missile == 1 :
+                    if supply_fuel != 1 or supply_missile != 1 or now_supply_distance > supply_distance :
+                        continue
+
+                elif supply_fuel == 1 and now_supply_fuel == 1 :
+                    if now_supply_distance > supply_distance :
+                        continue
+
+                elif supply_fuel == 1 and now_supply_fuel == 0 :
+                    continue
+                
+                elif supply_fuel == 0 and now_supply_fuel == 0 :
+                    if now_supply_distance > supply_distance :
+                        continue
+
+                elif supply_missile == 1 and now_supply_missile == 1:
+                    if now_supply_distance > supply_distance :
+                        continue
+
+                elif supply_missile == 1 and now_supply_missile == 0 :
+                    continue 
+
+                elif supply_missile == 0 and now_supply_missile == 0 :
+                    if now_supply_distance > supply_distance :
+                        continue
+
+                supply_target = blueBase.id
+                supply_distance = now_supply_distance
+                supply_fuel = now_supply_fuel
+                supply_missile = now_supply_missile    
+
+            else:
+                return -1
