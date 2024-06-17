@@ -412,7 +412,10 @@ class Map:
                 #无补给目标则搜寻
                 if(plane.supply_target == -1):
                     plane.supply_target = self.find_supply_target(plane)
+                    if(plane.supply_target == -1):
+                        return
                 
+
                 BBase = self.BlueBases[plane.supply_target]
 
                 if (plane.path == None or len(plane.path) == 0) :
@@ -457,11 +460,11 @@ class Map:
                         continue
 
 
-                # dis = len(plane.path)
+                dis = len(plane.path) + self.less_supply_distance(RBase, plane.fuel - len(plane.path))
 
 
 
-                if len(plane.path) + 20 > plane.fuel :
+                if plane.fuel < dis + 20 and plane.fuel < plane.fuel_capacity / 2 :
                     plane.state = 0
                     plane.supply_target = self.find_supply_target(plane,0)
                     plane.path = self.path_search(plane, self.BlueBases[plane.supply_target])
@@ -485,6 +488,7 @@ class Map:
                 #     plane.supply_target = self.find_supply_target(plane, 1)
                 #     plane.path = self.path_search(plane, self.BlueBases[plane.supply_target])
                 #     continue
+
                 #可移动则按照路径进行移动
                 if len(plane.path) > 0 and is_move == False :
                     self.move(plane,plane.path[0])

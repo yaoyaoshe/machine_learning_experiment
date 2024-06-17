@@ -1,0 +1,425 @@
+fuel 0 211
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+missile 0 14
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
