@@ -391,4272 +391,3681 @@ fuel 0 58
 missile 0 152
 OK
 move 0 3
-OK
-move 0 1
-OK
-move 0 3
+attack 0 3 7
 OK
 move 0 3
-OK
-move 0 3
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 2
-OK
-move 0 2
-attack 0 2 7
-OK
-move 0 2
+attack 0 3 2
 OK
 move 0 2
 OK
 move 0 1
 attack 0 1 9
 OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 2
-attack 0 1 9
-OK
-move 0 0
-attack 0 0 3
-OK
-move 0 0
-attack 0 2 5
-OK
-move 0 0
-attack 0 0 5
-OK
-move 0 2
-attack 0 2 4
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 3
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 2
-attack 0 1 6
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 2
-attack 0 1 0
-OK
-attack 0 2 10
 move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
 OK
 move 0 1
 attack 0 1 8
 OK
-move 0 1
-attack 0 1 5
+move 0 3
 OK
 move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 1
-OK
-fuel 0 48
-missile 0 124
-move 0 2
-attack 0 2 0
-OK
-move 0 2
-attack 0 2 7
-OK
-move 0 0
-attack 0 2 0
-OK
-move 0 2
 OK
 move 0 1
 attack 0 1 0
 OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 0
-attack 0 0 6
-OK
 move 0 2
-attack 0 2 0
-OK
-attack 0 0 10
-move 0 2
-attack 0 1 0
-OK
-move 0 0
-attack 0 2 10
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 8
-OK
-attack 0 0 6
-move 0 2
-attack 0 2 7
-OK
-move 0 0
-attack 0 2 5
-OK
-attack 0 0 3
-move 0 0
-attack 0 2 5
-OK
-move 0 2
-OK
-move 0 1
 OK
 move 0 1
 attack 0 1 10
-OK
-move 0 1
-attack 0 1 1
-OK
-attack 0 2 1
-move 0 3
-OK
-move 0 3
-attack 0 1 9
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
 OK
 move 0 1
 attack 0 1 7
 OK
+move 0 2
+attack 0 1 0
+OK
+move 0 3
+OK
 move 0 1
-attack 0 1 6
+attack 0 1 9
 OK
-move 0 2
-OK
-move 0 1
-attack 0 1 3
-OK
-attack 0 2 6
-move 0 2
-attack 0 1 10
-OK
-attack 0 2 9
-move 0 0
-OK
-move 0 0
-attack 0 2 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 3
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 9
-OK
-move 0 0
-attack 0 2 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
+move 0 3
 attack 0 1 4
 OK
-move 0 2
-attack 0 2 10
-OK
-attack 0 0 3
-fuel 0 47
-missile 0 179
-move 0 0
-OK
-move 0 2
-attack 0 2 1
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 7
-OK
-attack 0 2 8
-move 0 2
-attack 0 1 1
-OK
-attack 0 2 7
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 2
-attack 0 2 10
-OK
-attack 0 1 5
-move 0 1
-attack 0 1 2
-OK
 move 0 3
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 9
-OK
-attack 0 2 0
-move 0 2
-attack 0 1 5
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-attack 0 2 2
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 0
-OK
-attack 0 3 9
-move 0 0
-OK
-move 0 2
-attack 0 2 1
-OK
-move 0 2
-attack 0 2 6
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 8
-OK
-move 0 0
-attack 0 3 0
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 0
 OK
 move 0 3
 attack 0 3 10
 OK
-move 0 0
-OK
-move 0 0
-attack 0 0 0
-OK
-move 0 0
-attack 0 3 2
-OK
-move 0 0
-attack 0 2 4
-OK
-move 0 0
+move 0 1
+attack 0 1 3
 OK
 move 0 2
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 5
 OK
 move 0 2
-OK
-move 0 2
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-fuel 0 55
-missile 0 191
-OK
-move 0 3
-OK
-move 0 3
 OK
 move 0 1
 OK
 move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 2
 attack 0 1 9
 OK
-move 0 2
+move 0 0
 OK
-move 0 2
-attack 0 1 4
-OK
-attack 0 0 3
 move 0 2
 attack 0 2 4
-OK
-move 0 2
-attack 0 2 2
-OK
-attack 0 0 2
-move 0 2
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 4
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 6
-OK
-move 0 2
-attack 0 1 4
-OK
-move 0 2
-attack 0 2 1
-OK
-move 0 2
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 1
-OK
-attack 0 0 2
-attack 0 1 0
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 59
-missile 0 159
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 7
-OK
-attack 0 1 6
-move 0 0
-OK
-move 0 0
-attack 0 0 4
-OK
-attack 0 2 0
-move 0 0
 OK
 move 0 2
 OK
 move 0 2
 attack 0 2 3
 OK
-move 0 0
-attack 0 0 9
+attack 0 0 3
+move 0 2
 OK
-move 0 0
-attack 0 2 10
+move 0 2
+attack 0 2 2
 OK
-attack 0 3 6
 move 0 2
 OK
 move 0 2
 OK
 move 0 2
-attack 0 1 9
-OK
-move 0 2
-attack 0 1 9
 OK
 move 0 1
-attack 0 1 0
+attack 0 1 2
 OK
-move 0 2
-OK
-move 0 2
-attack 0 1 10
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 7
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 8
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 9
-OK
-attack 0 0 2
-move 0 3
-attack 0 3 9
-OK
-move 0 3
-attack 0 3 9
+move 0 1
+attack 0 1 7
 OK
 move 0 3
 OK
-move 0 3
+move 0 1
 OK
-move 0 3
-attack 0 3 8
-OK
-move 0 3
-attack 0 1 5
-OK
-move 0 0
-attack 0 3 3
-OK
-attack 0 0 0
-move 0 0
-attack 0 2 0
-OK
-move 0 0
-attack 0 3 9
+move 0 1
+attack 0 1 2
 OK
 fuel 0 46
-missile 0 159
-move 0 0
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 3
-attack 0 3 9
-OK
-move 0 0
-attack 0 3 7
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 3
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 0
-OK
-move 0 0
-attack 0 3 9
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 58
-missile 0 12
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 3
-attack 0 1 0
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 2
-attack 0 2 1
-OK
-move 0 0
-attack 0 2 5
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 0
-attack 0 2 0
-OK
-move 0 0
-attack 0 2 2
-OK
-move 0 0
-attack 0 2 6
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 3
-OK
-move 0 2
-attack 0 1 4
-OK
-move 0 2
-attack 0 2 6
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 1 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 3
-attack 0 1 5
-OK
-move 0 0
-attack 0 3 6
-OK
-fuel 0 48
-missile 0 134
-move 0 3
-attack 0 3 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 3
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 1
-OK
-attack 0 2 7
-move 0 2
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 0
-attack 0 3 7
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 3
-attack 0 1 5
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 9
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 3
-attack 0 3 10
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-attack 0 1 3
-OK
-attack 0 2 10
-move 0 3
-attack 0 1 8
-OK
-attack 0 3 9
-move 0 3
-attack 0 3 8
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-attack 0 3 7
-move 0 3
-attack 0 1 7
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 2
-OK
-attack 0 0 1
-move 0 0
-attack 0 0 6
-OK
-move 0 0
-attack 0 0 9
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-attack 0 0 6
-OK
-attack 0 3 1
-move 0 3
-attack 0 3 5
-OK
-move 0 3
-attack 0 1 9
-OK
-move 0 0
-attack 0 3 8
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 8
-OK
-fuel 0 48
-missile 0 245
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 1
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 5
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 10
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 0
-attack 0 3 9
-OK
-move 0 0
-attack 0 3 0
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 3
-OK
-attack 0 0 2
-move 0 3
-OK
-move 0 3
-attack 0 1 1
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 4
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-attack 0 3 8
-OK
-attack 0 0 5
-move 0 3
-attack 0 1 2
-OK
-move 0 3
-attack 0 1 5
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-attack 0 2 2
-OK
-move 0 2
-attack 0 2 4
-OK
-move 0 2
-attack 0 1 5
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-fuel 0 48
-missile 0 111
-move 0 0
-attack 0 0 2
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 2
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 9
-OK
-move 0 0
-attack 0 0 10
-OK
-attack 0 3 7
-move 0 0
-attack 0 3 4
-OK
-attack 0 0 8
-move 0 0
-attack 0 0 2
-OK
-move 0 0
-attack 0 3 6
-OK
-move 0 0
-attack 0 0 0
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 5
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-attack 0 1 1
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 0
-attack 0 2 2
-OK
-move 0 0
-attack 0 2 9
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 9
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 59
-missile 0 157
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 10
-OK
-move 0 0
-attack 0 2 9
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 57
-missile 0 46
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-attack 0 0 8
-move 0 3
-OK
-move 0 3
-attack 0 1 1
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 8
-OK
-attack 0 0 1
-move 0 0
-OK
-move 0 0
-attack 0 0 5
-OK
-move 0 0
-attack 0 3 7
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 2
-OK
-attack 0 1 2
-move 0 1
-attack 0 1 1
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 3
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 59
-missile 0 83
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 0
-attack 0 3 1
-OK
-move 0 0
-attack 0 3 6
-OK
-attack 0 0 7
-move 0 3
-attack 0 3 9
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 5
-OK
-attack 0 3 9
-move 0 3
-attack 0 3 7
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-attack 0 3 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 2
-OK
-attack 0 3 1
-move 0 3
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 59
-missile 0 124
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-attack 0 3 5
-move 0 3
-attack 0 1 6
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-attack 0 0 9
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 5
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 0
-attack 0 3 3
-OK
-move 0 0
-attack 0 2 4
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 0
-attack 0 2 7
-OK
-move 0 0
-attack 0 0 0
-OK
-attack 0 2 10
-move 0 2
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 8
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 3
-OK
-attack 0 3 3
-move 0 3
-OK
-move 0 3
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 59
-missile 0 115
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 10
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 4
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 0
-attack 0 0 5
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 59
-missile 0 70
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 3
-attack 0 3 9
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 2
-attack 0 2 7
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 59
-missile 0 79
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 6
-OK
-attack 0 2 2
-move 0 0
-attack 0 2 10
-OK
-attack 0 0 9
-move 0 0
-OK
-move 0 2
-attack 0 2 3
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-attack 0 1 6
-OK
-attack 0 2 3
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 6
-OK
-move 0 0
-attack 0 2 4
-OK
-move 0 0
-attack 0 3 5
-OK
-move 0 0
-attack 0 2 6
-OK
-move 0 0
-attack 0 0 8
-OK
-move 0 0
-attack 0 2 10
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 2
-attack 0 1 7
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 6
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 0
-attack 0 0 4
-OK
-attack 0 2 2
-move 0 2
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 1
-attack 0 1 0
-OK
-attack 0 3 1
-move 0 3
-attack 0 1 0
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-fuel 0 59
-missile 0 136
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 10
-OK
-attack 0 0 9
-move 0 0
-OK
-move 0 0
-attack 0 3 5
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 3
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 1
-attack 0 1 1
-OK
-attack 0 3 6
-move 0 2
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 0
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 2
-attack 0 1 7
-OK
-move 0 2
-attack 0 1 4
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 59
-missile 0 111
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 2
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 5
-OK
-attack 0 1 9
-move 0 2
-attack 0 1 7
-OK
-attack 0 0 10
-move 0 0
-attack 0 0 10
-OK
-attack 0 2 1
-move 0 2
-attack 0 2 5
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 7
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 6
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 9
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 8
-OK
-attack 0 1 1
-move 0 2
-attack 0 2 6
-OK
-move 0 2
-attack 0 1 3
-OK
-move 0 2
-attack 0 1 10
-OK
-move 0 0
-attack 0 2 8
-OK
-move 0 0
-attack 0 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 10
-OK
-attack 0 2 7
-move 0 0
-attack 0 2 8
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-attack 0 0 7
-move 0 1
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 1 3
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 58
-missile 0 169
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 1 2
-OK
-move 0 1
-attack 0 1 7
-OK
-attack 0 3 3
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 1
-OK
-move 0 2
-attack 0 2 6
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 0
-attack 0 2 7
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 0
-fuel 0 59
-missile 0 85
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 0
-OK
-move 0 0
-attack 0 0 1
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 3
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 9
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 59
-missile 0 57
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 5
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 0
-OK
-move 0 3
-fuel 0 37
-missile 0 11
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 3
-OK
-fuel 0 47
-missile 0 12
-move 0 0
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 9
-OK
-move 0 3
-attack 0 1 0
-OK
-move 0 3
-attack 0 1 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 10
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 4
-OK
-move 0 0
-attack 0 3 8
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 7
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-fuel 0 56
-missile 0 90
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 10
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-attack 0 2 0
-attack 0 3 10
-move 0 2
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 4
-OK
-attack 0 3 5
-move 0 3
-attack 0 1 8
-OK
-move 0 3
-attack 0 3 5
-OK
-attack 0 1 3
-move 0 3
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 0
-attack 0 3 5
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 1
-OK
-attack 0 3 4
-move 0 0
-attack 0 3 1
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-attack 0 1 9
-OK
-attack 0 3 8
-move 0 3
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 57
-missile 0 125
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 3
-attack 0 1 4
-OK
-attack 0 0 7
-move 0 1
-attack 0 1 4
-OK
-attack 0 3 9
-move 0 2
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 7
-OK
-attack 0 3 5
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 3
-attack 0 3 5
-OK
-attack 0 0 8
-move 0 0
-attack 0 3 8
-OK
-move 0 3
-attack 0 3 5
-OK
-attack 0 0 0
-move 0 0
-OK
-move 0 0
-attack 0 3 8
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 10
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 10
-OK
-fuel 0 47
-missile 0 145
-move 0 0
-OK
-move 0 0
-attack 0 2 2
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 8
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 0
-OK
-move 0 3
-attack 0 1 8
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 3
-attack 0 1 7
-OK
-move 0 0
-attack 0 3 2
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 0
-OK
-attack 0 2 3
-move 0 0
-attack 0 0 6
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 3
-attack 0 1 2
-OK
-attack 0 3 6
-move 0 3
-attack 0 3 8
-OK
-move 0 0
-attack 0 3 5
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 0
-attack 0 3 10
-OK
-move 0 0
-attack 0 3 0
-OK
-move 0 0
-attack 0 3 8
-OK
-fuel 0 47
-missile 0 139
-move 0 0
-OK
-move 0 0
-attack 0 3 4
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 3
-OK
-move 0 0
-attack 0 3 8
-OK
-move 0 0
-attack 0 0 7
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 5
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 7
-OK
-attack 0 3 8
-attack 0 0 4
-move 0 0
-attack 0 2 7
-OK
-move 0 0
-attack 0 3 9
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 3
-attack 0 3 1
-OK
-attack 0 0 7
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 3
-attack 0 3 10
-OK
-attack 0 1 8
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 0
-attack 0 0 4
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 10
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-attack 0 0 7
-OK
-move 0 0
-attack 0 3 7
-OK
-attack 0 2 1
-move 0 3
-attack 0 3 0
-OK
-attack 0 0 8
-move 0 0
-attack 0 0 10
-OK
-move 0 0
-attack 0 3 9
-OK
-attack 0 2 0
-move 0 2
-OK
-move 0 2
-attack 0 2 1
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 4
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 8
-OK
-attack 0 0 6
-move 0 0
-attack 0 0 6
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 63
-missile 0 197
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 8
-OK
-attack 0 2 2
-move 0 0
-attack 0 2 0
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 7
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 3
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 58
-missile 0 36
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-attack 0 3 6
-OK
-move 0 0
-OK
-move 0 0
-attack 0 0 8
-OK
-move 0 2
-attack 0 2 10
-OK
-move 0 0
-attack 0 2 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 0
-fuel 0 53
-missile 0 56
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 1
-OK
-attack 0 1 5
-move 0 3
-attack 0 1 5
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 7
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 3
-attack 0 3 5
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-attack 0 2 6
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 3
-attack 0 3 8
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 10
-OK
-move 0 1
-attack 0 1 5
-OK
-attack 0 3 3
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-attack 0 0 2
-OK
-attack 0 3 5
-move 0 0
-attack 0 0 7
-OK
-attack 0 3 2
-move 0 0
-attack 0 0 7
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 7
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 57
-missile 0 182
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-attack 0 2 10
-move 0 3
-attack 0 1 7
-OK
-move 0 3
-attack 0 3 8
-OK
-attack 0 0 8
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 9
-OK
-attack 0 2 4
-move 0 2
-attack 0 1 8
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 10
-OK
-move 0 0
-attack 0 2 1
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 4
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 5
-OK
-attack 0 2 10
-move 0 2
-attack 0 2 0
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 7
-OK
-move 0 3
-attack 0 1 3
-OK
-attack 0 3 6
-move 0 1
-attack 0 1 7
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 5
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 59
 missile 0 126
+move 0 3
+OK
+move 0 1
+attack 0 1 2
+OK
+attack 0 3 1
+move 0 3
+attack 0 1 4
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 0
+attack 0 3 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 0
+attack 0 0 10
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 10
+OK
+fuel 0 46
+missile 0 113
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+attack 0 1 6
+OK
+move 0 2
+attack 0 2 10
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+attack 0 2 0
+move 0 2
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 5
+OK
+attack 0 2 8
+move 0 2
+attack 0 1 4
+OK
+move 0 0
+attack 0 2 1
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 10
+OK
+move 0 0
+attack 0 0 2
+OK
+move 0 0
+attack 0 0 7
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 4
+OK
+attack 0 0 0
+move 0 2
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 4
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+fuel 0 59
+missile 0 132
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 7
+OK
+move 0 0
+attack 0 0 10
+OK
+move 0 2
+attack 0 2 3
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 4
+OK
+move 0 2
+attack 0 1 7
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 0
+attack 0 2 7
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 2
+attack 0 2 7
+OK
+move 0 0
+attack 0 2 0
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 10
+OK
+move 0 0
+attack 0 0 6
+OK
+move 0 2
+attack 0 2 0
+OK
+attack 0 0 10
+move 0 2
+attack 0 1 0
+OK
+move 0 0
+attack 0 2 10
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 8
+OK
+attack 0 0 6
+move 0 2
+attack 0 2 7
+OK
+move 0 0
+attack 0 2 5
+OK
+attack 0 0 3
+move 0 0
+attack 0 2 5
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 1
+OK
+attack 0 2 1
+move 0 3
+OK
+move 0 3
+attack 0 1 9
+OK
+fuel 0 48
+missile 0 142
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 3
+OK
+attack 0 2 6
+move 0 2
+attack 0 1 10
+OK
+attack 0 2 9
+move 0 0
+OK
+move 0 0
+attack 0 2 5
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 3
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 9
+OK
+move 0 0
+attack 0 2 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 4
+OK
+move 0 2
+attack 0 2 10
+OK
+attack 0 0 3
+move 0 0
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 2
+attack 0 2 10
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 7
+OK
+attack 0 2 8
+move 0 2
+attack 0 1 1
+OK
+attack 0 2 7
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 2
+attack 0 2 10
+OK
+attack 0 1 5
+move 0 1
+attack 0 1 2
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 9
+OK
+attack 0 2 0
+fuel 0 48
+missile 0 218
+move 0 2
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+attack 0 2 2
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 5
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 0
+OK
+attack 0 3 9
+move 0 0
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 8
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 0
+attack 0 0 10
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 0
+OK
+move 0 0
+attack 0 3 2
+OK
+move 0 0
+attack 0 2 4
+OK
+move 0 0
+attack 0 0 8
+OK
+move 0 0
+attack 0 2 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 4
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 6
+OK
+move 0 0
+attack 0 0 4
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 2
+attack 0 2 1
+OK
+attack 0 0 2
+attack 0 1 0
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 5
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+fuel 0 59
+missile 0 215
+attack 0 1 3
+OK
+move 0 0
+attack 0 2 2
+OK
+move 0 3
+attack 0 3 1
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 0
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 2
+OK
+attack 0 3 2
+move 0 3
+attack 0 1 4
+OK
+move 0 3
+attack 0 3 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 0
+attack 0 2 7
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 0
+attack 0 2 3
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 9
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 2
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+attack 0 2 0
+move 0 2
+attack 0 2 0
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 53
+missile 0 141
+attack 0 0 5
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+attack 0 1 10
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+attack 0 1 0
+OK
+attack 0 3 9
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 3
+OK
+attack 0 0 10
+move 0 0
+attack 0 3 9
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+attack 0 1 10
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 2
+attack 0 1 6
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 3
+OK
+move 0 2
+attack 0 2 4
+OK
+move 0 2
+attack 0 1 2
+OK
+move 0 2
+attack 0 1 7
+OK
+move 0 0
+attack 0 2 6
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 59
+missile 0 177
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 10
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 1
+OK
+attack 0 3 3
+move 0 3
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 0
+attack 0 0 8
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 3
+attack 0 1 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+attack 0 1 4
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 10
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+fuel 0 57
+missile 0 119
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 0
+attack 0 3 3
+OK
+attack 0 0 10
+move 0 3
+attack 0 3 8
+OK
+attack 0 0 7
+move 0 0
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+attack 0 3 7
+move 0 3
+attack 0 1 7
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 2
+OK
+attack 0 0 1
+move 0 0
+attack 0 0 6
+OK
+move 0 0
+attack 0 0 9
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+attack 0 0 6
+OK
+attack 0 3 1
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 0
+attack 0 3 8
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 8
+OK
+fuel 0 46
+missile 0 176
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 1
+OK
+move 0 3
+attack 0 3 1
+OK
+move 0 0
+attack 0 0 1
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 0
+attack 0 0 3
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 5
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 0
+attack 0 3 9
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 3
+OK
+attack 0 0 2
+move 0 3
+OK
+move 0 3
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 4
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+attack 0 3 8
+OK
+attack 0 0 5
+move 0 3
+attack 0 1 2
+OK
+move 0 3
+attack 0 1 5
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+attack 0 2 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+fuel 0 61
+missile 0 111
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+attack 0 0 8
+move 0 3
+OK
+move 0 1
+attack 0 1 0
+OK
+attack 0 3 1
+move 0 1
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 0
+attack 0 3 10
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 10
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 10
+OK
+move 0 0
+attack 0 2 2
+OK
+move 0 0
+attack 0 2 9
+OK
+move 0 2
+attack 0 2 10
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 59
+missile 0 144
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 10
+OK
+move 0 0
+attack 0 2 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 3
+attack 0 1 1
+OK
+attack 0 3 3
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+attack 0 3 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 2
+OK
+attack 0 1 2
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+fuel 0 59
+missile 0 62
+attack 0 3 0
+attack 0 0 10
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 3
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+attack 0 0 3
+move 0 3
+OK
+move 0 3
+attack 0 1 5
+OK
+move 0 3
+attack 0 1 3
+OK
+attack 0 0 5
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 10
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+fuel 0 59
+missile 0 113
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+attack 0 2 1
+move 0 2
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+attack 0 2 9
+move 0 1
+attack 0 1 9
+OK
+move 0 3
+attack 0 3 3
+OK
+move 0 3
+attack 0 1 0
+OK
+attack 0 3 1
+move 0 3
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 0
+attack 0 3 10
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+attack 0 1 5
+OK
+move 0 0
+attack 0 2 8
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+fuel 0 57
+missile 0 134
+attack 0 0 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 0
+attack 0 2 8
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+attack 0 3 4
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 10
+OK
+attack 0 2 3
+move 0 1
+attack 0 1 2
+OK
+move 0 2
+attack 0 1 4
+OK
+move 0 2
+attack 0 1 6
+OK
+attack 0 2 3
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 3
+attack 0 3 6
+OK
+attack 0 1 1
+move 0 1
+attack 0 1 4
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 2
+attack 0 2 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 5
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+attack 0 2 3
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+fuel 0 59
+missile 0 150
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 4
+OK
+move 0 0
+attack 0 2 8
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 1
+OK
+attack 0 0 6
+move 0 2
+attack 0 2 2
+OK
+attack 0 0 1
+move 0 1
+attack 0 1 4
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 3
+attack 0 1 10
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 3
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+attack 0 1 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+attack 0 2 5
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 0
+OK
+move 0 0
+attack 0 0 6
+OK
+move 0 0
+attack 0 2 8
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 0
+attack 0 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 5
+OK
+attack 0 2 1
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+attack 0 1 9
+OK
+fuel 0 47
+missile 0 36
+move 0 3
+attack 0 1 9
+OK
+move 0 3
+attack 0 1 2
+OK
+move 0 3
+attack 0 1 2
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 0
+OK
+attack 0 0 0
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+attack 0 0 10
+move 0 0
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+attack 0 3 7
+move 0 1
+attack 0 1 4
+OK
+attack 0 2 7
+move 0 3
+attack 0 1 4
+OK
+move 0 1
+attack 0 1 4
+OK
+attack 0 3 9
+move 0 2
+attack 0 2 9
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 7
+OK
+attack 0 3 5
+move 0 0
+OK
+move 0 0
+attack 0 2 4
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+fuel 0 59
+missile 0 263
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+attack 0 1 4
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 10
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 8
+OK
+attack 0 0 3
+move 0 0
+attack 0 3 5
+OK
+move 0 0
+attack 0 0 5
+OK
+move 0 0
+attack 0 3 7
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 1
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+attack 0 0 0
+OK
+move 0 3
+attack 0 3 0
+OK
+attack 0 0 8
+move 0 3
+attack 0 1 5
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+fuel 0 59
+missile 0 78
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 0
+attack 0 0 6
+OK
+move 0 0
+attack 0 0 5
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 3
+attack 0 1 2
+OK
+attack 0 3 6
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+fuel 0 58
+missile 0 132
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 7
+OK
+move 0 0
+attack 0 3 7
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 8
+OK
+attack 0 3 6
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 1
+OK
+attack 0 0 7
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 3
+attack 0 3 10
+OK
+attack 0 1 8
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 0
+attack 0 0 4
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 10
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 0
+attack 0 0 7
+OK
+move 0 0
+attack 0 3 7
+OK
+attack 0 2 1
+move 0 3
+attack 0 3 0
+OK
+attack 0 0 8
+move 0 0
+attack 0 0 10
+OK
+move 0 0
+attack 0 3 9
+OK
+attack 0 2 0
+move 0 2
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 8
+OK
+attack 0 0 6
+move 0 0
+attack 0 0 6
+OK
+move 0 0
+attack 0 2 8
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 2
+attack 0 1 2
+OK
+move 0 2
+attack 0 1 7
+OK
+move 0 2
+attack 0 1 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 58
+missile 0 189
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 5
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 2
+attack 0 2 8
+OK
+attack 0 1 8
+move 0 1
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 2
+attack 0 2 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 2
+attack 0 1 10
+OK
+attack 0 0 8
+move 0 1
+attack 0 1 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+fuel 0 57
+missile 0 84
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 0
+attack 0 3 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 1
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 0
+attack 0 3 6
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 8
+OK
+move 0 2
+attack 0 2 10
+OK
+move 0 0
+attack 0 2 6
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 1
+OK
+attack 0 1 5
+move 0 3
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+attack 0 3 5
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+attack 0 2 6
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 59
+missile 0 130
+attack 0 1 0
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 3
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+attack 0 1 10
+OK
+attack 0 3 2
+move 0 1
+attack 0 1 3
+OK
+attack 0 3 5
+move 0 2
+attack 0 2 8
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+attack 0 2 10
+move 0 3
+attack 0 1 7
+OK
+move 0 3
+attack 0 3 8
+OK
+attack 0 0 8
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 10
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 6
+OK
+attack 0 3 8
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 0
+attack 0 2 10
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 59
+missile 0 181
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 3
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+attack 0 1 4
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 7
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 1
+attack 0 1 5
+OK
+attack 0 2 6
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 3
+attack 0 1 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+attack 0 1 0
+OK
+move 0 2
+attack 0 1 4
+OK
+fuel 0 48
+missile 0 145
+move 0 2
+attack 0 2 7
+OK
+attack 0 1 0
+attack 0 0 10
+move 0 0
+attack 0 2 6
+OK
+move 0 0
+attack 0 2 3
+OK
+move 0 0
+attack 0 2 1
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 6
+OK
+move 0 2
+attack 0 2 7
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 8
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 1
+OK
+attack 0 0 7
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 0
+attack 0 0 8
+OK
+move 0 0
+attack 0 0 5
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 9
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 1
+attack 0 1 5
+OK
+attack 0 2 6
+move 0 2
+attack 0 2 5
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 2
+OK
+attack 0 2 6
+move 0 2
+attack 0 2 2
+OK
+move 0 0
+attack 0 0 4
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 0
+fuel 0 59
+missile 0 156
+attack 0 2 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 3
+OK
+move 0 3
 OK
 move 0 1
 OK
@@ -4679,8 +4088,455 @@ OK
 move 0 1
 OK
 move 0 1
+attack 0 1 5
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 1
 OK
 move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+attack 0 1 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 6
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 2
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 0
+attack 0 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 9
+OK
+move 0 0
+attack 0 2 7
+OK
+fuel 0 48
+missile 0 58
+move 0 0
+OK
+move 0 0
+attack 0 2 5
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 3
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 8
+OK
+move 0 3
+attack 0 3 7
+OK
+attack 0 0 1
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 2
+OK
+attack 0 3 1
+move 0 0
+OK
+move 0 3
+attack 0 3 10
+OK
+attack 0 0 10
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+fuel 0 60
+missile 0 99
+attack 0 0 1
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+attack 0 1 10
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 3
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 5
+OK
+move 0 2
+attack 0 2 4
+OK
+move 0 0
+attack 0 2 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 4
+OK
+attack 0 3 8
+move 0 0
+attack 0 0 8
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 4
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 3
+fuel 0 58
+missile 0 94
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 8
+OK
+attack 0 3 8
+move 0 3
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+attack 0 3 0
+OK
+move 0 0
+attack 0 2 7
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 0
+OK
+move 0 0
+attack 0 3 8
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 5
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 7
+OK
+move 0 3
+attack 0 1 3
+OK
+attack 0 3 6
+move 0 1
+attack 0 1 7
+OK
+move 0 0
+OK
+move 0 0
+attack 0 0 8
+OK
+attack 0 3 5
+move 0 0
+attack 0 3 9
+OK
+attack 0 0 4
+move 0 3
+OK
+move 0 3
+attack 0 3 3
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 3
 OK
 move 0 1
 attack 0 1 3
@@ -4698,6 +4554,8 @@ move 0 1
 attack 0 1 0
 OK
 attack 0 2 10
+fuel 0 47
+missile 0 141
 move 0 3
 attack 0 1 8
 OK
@@ -4743,57 +4601,22 @@ move 0 2
 attack 0 1 0
 OK
 attack 0 2 8
-move 0 0
+move 0 2
 OK
-move 0 0
-attack 0 2 7
+move 0 1
 OK
-move 0 0
-attack 0 2 0
+move 0 1
 OK
-attack 0 0 4
-move 0 0
+move 0 1
+attack 0 1 4
 OK
-move 0 0
-attack 0 0 8
+move 0 3
 OK
-move 0 0
+move 0 3
 OK
-move 0 0
-OK
-move 0 0
+move 0 3
 attack 0 3 3
 OK
-attack 0 2 7
-move 0 0
-attack 0 3 5
-OK
-move 0 0
-attack 0 0 9
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 4
-OK
-move 0 2
-attack 0 2 7
-OK
-move 0 0
-attack 0 2 3
-OK
-fuel 0 8
-missile 0 155
-move 0 2
-OK
-move 0 2
-attack 0 2 9
-OK
-move 0 2
-attack 0 2 8
-OK
 move 0 2
 OK
 move 0 1
@@ -4801,462 +4624,140 @@ OK
 move 0 1
 attack 0 1 9
 OK
-move 0 2
-attack 0 1 6
-OK
-attack 0 2 9
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-fuel 0 58
-missile 0 41
-OK
-move 0 3
-OK
 move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 6
-OK
-move 0 3
-attack 0 1 9
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 10
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 2
-OK
-move 0 2
 attack 0 1 8
 OK
 move 0 1
-attack 0 1 9
+attack 0 1 8
 OK
 move 0 3
-attack 0 1 3
+attack 0 3 3
 OK
-move 0 1
+move 0 3
+attack 0 1 2
 OK
-move 0 1
-attack 0 1 4
+move 0 3
 OK
-move 0 2
-attack 0 1 0
-OK
-move 0 2
-attack 0 1 4
-OK
-move 0 2
-attack 0 2 7
-OK
-attack 0 1 0
-attack 0 0 10
-move 0 0
-attack 0 2 6
-OK
-move 0 0
-attack 0 2 3
-OK
-move 0 0
-attack 0 2 1
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 6
-OK
-move 0 2
-attack 0 2 7
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 8
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 1
-OK
-attack 0 0 7
-fuel 0 46
-missile 0 143
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 2
-OK
-move 0 0
-attack 0 0 10
-OK
-move 0 0
-attack 0 2 8
-OK
+move 0 3
 attack 0 3 7
-move 0 2
 OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 1
-OK
-move 0 1
 attack 0 1 1
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 0
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 1
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 10
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 9
-OK
-move 0 2
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 5
-OK
-attack 0 2 6
-move 0 2
-attack 0 2 5
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 2
-OK
-attack 0 2 6
-move 0 2
-attack 0 2 2
-OK
 move 0 0
-attack 0 0 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-attack 0 2 9
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 6
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 59
-missile 0 133
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 7
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 2
-attack 0 1 5
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 3
-OK
-move 0 3
-attack 0 1 5
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 5
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 2
-attack 0 2 6
-OK
-attack 0 0 8
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 8
+attack 0 0 10
 OK
 attack 0 3 0
-move 0 1
+move 0 3
 OK
-move 0 1
-attack 0 1 0
+move 0 3
+attack 0 3 6
 OK
-move 0 1
 attack 0 1 4
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 0
-attack 0 0 7
-OK
-move 0 3
-attack 0 3 9
-OK
-fuel 0 47
-missile 0 97
-move 0 3
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 5
-OK
 move 0 3
 OK
 move 0 3
 attack 0 3 1
 OK
 move 0 3
+attack 0 1 6
 OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
+attack 0 3 4
+attack 0 0 4
+move 0 0
+attack 0 0 1
 OK
 move 0 3
-attack 0 1 2
+OK
+move 0 3
 OK
 move 0 1
 OK
 move 0 1
+attack 0 1 9
 OK
 move 0 1
-attack 0 1 5
+OK
+move 0 1
+attack 0 1 9
+OK
+attack 0 2 8
+fuel 0 44
+missile 0 186
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
 OK
 move 0 1
 attack 0 1 8
 OK
 move 0 2
 OK
+move 0 1
+attack 0 1 10
+OK
+attack 0 2 9
 move 0 2
 attack 0 1 6
 OK
 move 0 2
-attack 0 2 9
+attack 0 2 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+attack 0 1 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 6
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
 OK
 move 0 2
 OK
@@ -5267,41 +4768,56 @@ attack 0 2 2
 OK
 move 0 0
 OK
-move 0 2
-attack 0 2 1
+move 0 0
+attack 0 2 4
 OK
 move 0 0
 OK
+move 0 3
+attack 0 3 7
+OK
+attack 0 0 10
+move 0 0
+attack 0 0 1
+OK
+attack 0 3 7
+move 0 3
+attack 0 3 7
+OK
+attack 0 0 0
 move 0 0
 OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
+move 0 2
+attack 0 2 6
 OK
 move 0 0
-attack 0 2 5
+attack 0 2 7
 OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
+fuel 0 45
+missile 0 122
 move 0 2
 OK
 move 0 2
 OK
 move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+attack 0 2 2
+OK
+move 0 3
 OK
 move 0 1
 OK
@@ -5310,80 +4826,14 @@ OK
 move 0 1
 attack 0 1 10
 OK
+attack 0 3 2
 move 0 2
 OK
 move 0 2
-OK
-move 0 2
-attack 0 1 5
-OK
-attack 0 2 0
-move 0 0
-OK
-move 0 0
-attack 0 2 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 58
-missile 0 70
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 7
-OK
-move 0 1
-OK
-move 0 1
 attack 0 1 2
 OK
-move 0 3
+move 0 1
+attack 0 1 3
 OK
 move 0 3
 OK
@@ -5392,11 +4842,10 @@ OK
 move 0 3
 OK
 move 0 3
+attack 0 1 0
 OK
 move 0 3
-OK
-move 0 3
-attack 0 1 1
+attack 0 1 4
 OK
 move 0 0
 OK
@@ -5412,39 +4861,44 @@ move 0 0
 OK
 move 0 0
 OK
-move 0 2
+move 0 0
 OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 1
+move 0 0
 OK
 move 0 0
 OK
 move 0 0
 OK
-move 0 2
+move 0 0
 OK
-move 0 2
+move 0 0
 OK
-move 0 2
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+attack 0 2 9
 OK
 move 0 2
 attack 0 2 6
 OK
 move 0 0
 OK
-move 0 0
+move 0 2
+attack 0 2 9
 OK
 move 0 0
 OK
@@ -5467,22 +4921,12 @@ OK
 move 0 0
 OK
 move 0 0
-fuel 0 58
-missile 0 17
 OK
 move 0 2
 OK
 move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
+fuel 0 59
+missile 0 53
 OK
 move 0 2
 OK
@@ -5503,45 +4947,237 @@ OK
 move 0 1
 OK
 move 0 1
-attack 0 2 7
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
 OK
 move 0 0
-attack 0 2 4
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 4
+OK
+move 0 3
+attack 0 3 10
+OK
+move 0 0
+attack 0 3 1
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+fuel 0 35
+missile 0 21
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
 OK
 move 0 2
 OK
 move 0 2
 OK
 move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+fuel 0 48
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 5
+OK
+move 0 1
 OK
 move 0 1
 OK
 move 0 1
 attack 0 1 8
 OK
-move 0 0
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
 OK
 move 0 0
 OK
 move 0 0
 OK
 move 0 0
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
 OK
 move 0 0
 OK
@@ -5580,257 +5216,13 @@ OK
 move 0 2
 OK
 move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 56
-missile 0 19
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 0
-attack 0 2 3
-OK
-move 0 0
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 59
-missile 0 16
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 0
-attack 0 0 5
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 54
+fuel 0 57
 missile 0 13
 OK
 move 0 3
 OK
 move 0 3
 OK
-move 0 3
-OK
-move 0 3
-OK
 move 0 1
 OK
 move 0 1
@@ -5890,174 +5282,133 @@ OK
 move 0 1
 OK
 move 0 1
-attack 0 1 4
 OK
 move 0 1
 OK
 move 0 1
-attack 0 1 0
 OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 9
+move 0 1
 OK
 move 0 1
 attack 0 1 1
 OK
-move 0 3
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 3
-OK
-fuel 0 48
-missile 0 31
 move 0 0
 OK
-move 0 3
+move 0 2
 OK
-move 0 3
-attack 0 3 8
+move 0 2
 OK
-move 0 3
-attack 0 3 7
+move 0 2
 OK
-attack 0 0 1
-move 0 3
+move 0 2
 OK
-move 0 3
+move 0 2
+OK
+move 0 2
+attack 0 2 7
+OK
+move 0 2
 OK
 move 0 1
 attack 0 1 2
 OK
-attack 0 3 1
+fuel 0 45
+missile 0 10
 move 0 0
 OK
-move 0 3
-attack 0 3 10
-OK
-attack 0 0 10
 move 0 0
-attack 0 3 7
-OK
-move 0 0
-attack 0 0 3
 OK
 move 0 0
 OK
 move 0 0
-attack 0 2 8
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 5
-OK
-move 0 2
-attack 0 2 4
-OK
-move 0 0
-attack 0 2 0
 OK
 move 0 0
 OK
 move 0 0
-attack 0 0 4
 OK
-attack 0 3 8
 move 0 0
-attack 0 0 8
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
 OK
 move 0 2
 OK
 move 0 2
-attack 0 2 4
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 0
 OK
 move 0 2
 OK
 move 0 2
-attack 0 1 0
 OK
 move 0 2
 OK
-move 0 1
+move 0 2
 OK
-move 0 1
+move 0 2
+OK
+move 0 2
+attack 0 2 3
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
 OK
 move 0 1
 attack 0 1 6
 OK
 move 0 0
 OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 1
-OK
-move 0 3
-attack 0 3 7
-OK
-move 0 0
-attack 0 0 8
-OK
-attack 0 3 5
-move 0 0
-attack 0 3 10
-OK
 move 0 0
 OK
-move 0 0
-attack 0 2 1
+move 0 2
 OK
-move 0 0
+move 0 2
 OK
-move 0 0
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 7
 OK
 move 0 0
 OK
-move 0 0
+move 0 2
 OK
-move 0 0
+move 0 2
 OK
-move 0 0
+move 0 2
+attack 0 2 7
 OK
 move 0 0
 OK
@@ -6070,97 +5421,84 @@ OK
 move 0 0
 OK
 move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
 fuel 0 58
-missile 0 128
+missile 0 23
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 10
 OK
 move 0 2
 OK
 move 0 2
 OK
-move 0 1
+move 0 2
+attack 0 1 4
 OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 1
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
+attack 0 2 8
+move 0 2
+attack 0 1 10
 OK
 move 0 3
 OK
 move 0 1
+attack 0 1 7
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 2
 OK
 move 0 1
 OK
 move 0 1
 attack 0 1 7
 OK
-move 0 1
+move 0 2
 OK
-move 0 1
+move 0 2
 OK
-move 0 1
-attack 0 1 0
+move 0 2
+OK
+move 0 2
+attack 0 1 5
 OK
 move 0 2
 OK
 move 0 1
-attack 0 1 8
+attack 0 1 2
+OK
+move 0 2
 OK
 move 0 1
+attack 0 1 2
 OK
-move 0 1
-attack 0 1 10
-OK
-attack 0 2 8
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
+move 0 2
 OK
 move 0 1
 attack 0 1 4
@@ -6170,15 +5508,51 @@ OK
 move 0 3
 OK
 move 0 3
-attack 0 3 3
+attack 0 3 0
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 6
 OK
 move 0 0
 OK
+move 0 2
+attack 0 2 4
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 9
+OK
 move 0 0
+attack 0 2 6
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 8
+OK
+move 0 2
+attack 0 1 6
+OK
+move 0 2
+attack 0 2 8
 OK
 move 0 0
 OK
-move 0 0
+move 0 2
 OK
 move 0 0
 OK
@@ -6198,392 +5572,203 @@ move 0 0
 OK
 move 0 0
 fuel 0 58
-missile 0 47
+missile 0 115
 OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 3
-attack 0 1 2
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 7
-OK
-attack 0 1 1
 move 0 0
-attack 0 0 10
 OK
-attack 0 3 0
+move 0 3
+OK
 move 0 3
 OK
 move 0 3
 attack 0 3 6
 OK
+move 0 2
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
 attack 0 1 4
-move 0 3
 OK
-move 0 3
-attack 0 3 1
-OK
-move 0 3
-attack 0 1 6
-OK
-attack 0 3 4
-attack 0 0 4
-move 0 0
-attack 0 0 1
+move 0 1
+attack 0 1 5
 OK
 move 0 3
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 9
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 9
-OK
-attack 0 2 8
-move 0 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 0
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 8
-OK
-move 0 2
-OK
-move 0 1
-attack 0 1 10
-OK
-attack 0 2 9
-move 0 2
-attack 0 1 6
-OK
-move 0 2
-attack 0 2 3
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 2
-fuel 0 57
-missile 0 136
-OK
-move 0 3
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
 OK
 move 0 1
 OK
 move 0 1
 attack 0 1 1
 OK
-move 0 3
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 8
+OK
+attack 0 2 7
+move 0 1
+attack 0 1 7
+OK
+move 0 2
+attack 0 2 5
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 7
 OK
 move 0 3
+attack 0 1 3
 OK
-move 0 3
 attack 0 3 10
+move 0 3
 OK
 move 0 3
-attack 0 3 9
 OK
 move 0 3
+OK
+move 0 1
+attack 0 1 10
+OK
+move 0 3
+attack 0 1 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 2
+OK
+move 0 3
+attack 0 3 2
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 4
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 3
+OK
 attack 0 1 9
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 1 6
+move 0 2
+attack 0 2 0
 OK
 move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-attack 0 2 2
+attack 0 2 9
 OK
 move 0 0
 OK
 move 0 0
-attack 0 2 4
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
 OK
 move 0 0
 OK
 move 0 3
-attack 0 3 7
+fuel 0 59
+missile 0 108
 OK
-attack 0 0 10
 move 0 0
-attack 0 0 1
 OK
-attack 0 3 7
-move 0 3
-attack 0 3 7
+move 0 0
 OK
-attack 0 0 0
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 9
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
 move 0 0
 OK
 move 0 2
 attack 0 2 6
 OK
 move 0 0
-attack 0 2 7
 OK
 move 0 2
 OK
 move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 6
+OK
+move 0 2
+OK
+move 0 1
 OK
 move 0 1
 attack 0 1 4
 OK
 move 0 2
 OK
-move 0 2
-OK
-move 0 2
-attack 0 1 2
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-fuel 0 58
-missile 0 92
-OK
-move 0 2
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-OK
 move 0 1
 attack 0 1 0
 OK
-move 0 2
-attack 0 2 2
-OK
-move 0 2
-attack 0 1 0
-OK
-move 0 1
-OK
-move 0 1
-OK
-move 0 1
-attack 0 1 2
-OK
-attack 0 2 4
-move 0 1
-attack 0 1 3
-OK
-move 0 3
-attack 0 3 10
-OK
-move 0 0
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 1
-attack 0 1 0
-OK
-move 0 3
-attack 0 1 4
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
-move 0 0
-OK
 move 0 0
 OK
 move 0 0
@@ -6599,83 +5784,11 @@ OK
 move 0 0
 OK
 move 0 2
-fuel 0 57
-missile 0 27
+OK
+move 0 2
+attack 0 2 6
 OK
 move 0 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 9
-OK
-move 0 0
-OK
-move 0 0
-attack 0 3 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 3
-OK
-move 0 0
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 6
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 4
-OK
-move 0 3
-attack 0 3 0
-OK
-move 0 3
-OK
-move 0 3
-OK
-move 0 3
-attack 0 3 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
 OK
 move 0 2
 OK
@@ -6684,198 +5797,8 @@ OK
 move 0 2
 attack 0 2 3
 OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-fuel 0 46
-missile 0 27
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-fuel 0 35
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-fuel 0 35
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
-move 0 2
-OK
+fuel 0 37
+missile 0 34
 move 0 2
 OK
 move 0 2
@@ -6911,6 +5834,270 @@ OK
 move 0 1
 OK
 move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 1
+OK
+move 0 2
 OK
 move 0 1
 attack 0 1 6
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 1
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+attack 0 1 9
+OK
+move 0 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 0
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+attack 0 3 5
+OK
+fuel 0 47
+missile 0 38
+move 0 3
+OK
+move 0 3
+attack 0 1 2
+OK
+move 0 1
+attack 0 1 7
+OK
+attack 0 3 3
+move 0 1
+attack 0 1 1
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 1
+attack 0 1 0
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+attack 0 1 3
+OK
+move 0 0
+OK
+move 0 3
+attack 0 3 7
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 4
+OK
+move 0 2
+OK
+move 0 2
+attack 0 1 8
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+OK
+move 0 2
+attack 0 2 7
+OK
+move 0 0
+attack 0 2 8
+OK
+move 0 0
+OK
+move 0 2
+attack 0 2 4
+OK
+attack 0 0 0
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5
+OK
+fuel 0 47
+missile 0 59
+move 0 2
+attack 0 2 8
+OK
+move 0 3
+OK
+move 0 3
+attack 0 3 9
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 1
+attack 0 1 5

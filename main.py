@@ -2,8 +2,8 @@ import military_exercise as mi
 import sys
 
 def main():
-   file_in = "data/testcase10.in"
-   file_out = "data/testcase10.out"
+   file_in = "data/testcase7.in"
+   file_out = "data/testcase7.out"
    m = mi.Map(file_in)
  
    max_frame = 15000

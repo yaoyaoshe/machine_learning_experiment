@@ -246,6 +246,7 @@ class Map:
         distance = 0
         fuel_count = 0
         missile_count = 0
+        w_missile = 0
         # w_sup = 0
 
         # if supply_type == 0:
@@ -279,7 +280,7 @@ class Map:
             #去除不在移动范围内的基地
             if(now_distance + 10> plane.fuel):
                 continue
-            #计算选择的倾向性
+            
             now_fuel_count = plane.fuel_capacity if BlueBase.fuel >= plane.fuel_capacity - (plane.fuel - now_distance) else plane.fuel - now_distance + BlueBase.fuel
             now_missile_count = BlueBase.missile if BlueBase.missile < (plane.missile_capacity - plane.missile) else plane.missile_capacity 
             
@@ -287,7 +288,7 @@ class Map:
                 continue
             if(now_missile_count == 0 and supply_type == 1):
                 continue
-
+            #计算选择的倾向性
             # now_w_sup = f * now_fuel_count + m * now_missile_count - d * distance
             
             # if now_w_sup > w_sup :
@@ -295,6 +296,8 @@ class Map:
             #     w_sup = now_w_sup
             #     continue
             
+            now_w_missile = 0.5 * now_fuel_count + 0.3 * now_missile_count 
+
             #缺油时以补油优先
             if supply_type == 0 :
                 if now_fuel_count < fuel_count :
@@ -303,14 +306,14 @@ class Map:
                     continue
             #不缺油时以补弹优先
             elif supply_type == 1:
-                if now_missile_count < missile_count :
+                if now_w_missile < w_missile :
                     continue
-                if now_missile_count == missile_count and now_distance > distance :
+                if now_w_missile == w_missile and now_distance > distance :
                     continue
 
             target = BlueBase.id
             fuel_count = now_fuel_count
-            missile_count = now_missile_count
+            w_missile = now_w_missile
         
         return target
     
@@ -422,6 +425,8 @@ class Map:
                     #如果已抵达目标
                     if (plane.x,plane.y) == (BBase.x,BBase.y):
                         self.supply(plane,BBase)
+                        plane.supply_target = -1
+                        plane.attack_target = -1
                         plane.state = 1
                         continue
 
@@ -435,6 +440,8 @@ class Map:
                 #移动后抵达目标
                 if (plane.x,plane.y) == (BBase.x,BBase.y):
                     self.supply(plane,BBase)
+                    plane.supply_target = -1
+                    plane.attack_target = -1
                     plane.state = 1
                     continue
 
@@ -457,6 +464,8 @@ class Map:
                     plane.path = self.path_search(plane, RBase)
                     if (plane.path == None or len(plane.path) == 0) and (plane.missile > 0 and RBase.defense >= 0) :
                         self.attack(plane,RBase)
+                        plane.supply_target = -1
+                        plane.attack_target = -1
                         continue
 
 
@@ -497,6 +506,8 @@ class Map:
                 #移动后抵达目标则进攻
                 if len(plane.path) == 0 and (plane.missile > 0 and RBase.defense >= 0) :
                     self.attack(plane,RBase)
+                    plane.supply_target = -1
+                    plane.attack_target = -1
                     break
 
                 break

@@ -1,17 +1,17 @@
 fuel 0 207
 move 0 2
 fuel 1 75
-move 1 0
+move 1 3
 fuel 2 100
 move 2 3
 fuel 3 100
 move 3 3
 fuel 4 136
-move 4 0
+move 4 3
 fuel 5 32
-move 5 0
+move 5 3
 fuel 6 254
-move 6 0
+move 6 3
 fuel 7 112
 fuel 8 78
 move 8 0
@@ -19,217 +19,222 @@ fuel 9 263
 move 9 2
 OK
 move 0 2
-move 1 0
+move 1 3
 move 2 3
 move 3 3
 move 4 3
-move 5 2
-move 6 0
+move 5 3
+move 6 3
 move 8 0
 move 9 2
 OK
 move 0 2
-move 1 2
-move 2 0
+move 1 3
+move 2 3
 move 3 3
 move 4 3
 move 5 0
-move 6 0
+move 6 3
 move 8 0
 move 9 2
 OK
-move 0 0
-move 1 0
+move 0 2
+move 1 1
 move 2 3
 move 3 3
-move 4 0
-move 5 0
-move 6 2
+move 4 3
+move 5 3
+move 6 1
 move 8 0
 move 9 2
 OK
-move 0 0
-move 1 0
-move 2 0
+move 0 2
+move 1 1
+move 2 3
 move 3 3
-move 4 0
-move 5 0
-move 6 0
+move 4 1
+move 5 3
+move 6 1
 move 8 0
 move 9 0
 OK
-move 0 0
-move 1 0
-move 2 0
+move 0 2
+move 1 1
+move 2 3
 move 3 3
-move 4 0
-move 5 0
-move 6 0
+move 4 1
+move 5 1
+move 6 1
 move 8 3
 move 9 2
 OK
-move 0 0
-move 1 2
-move 2 0
-move 3 3
-move 4 0
-move 5 0
-move 6 0
-move 8 0
-move 9 2
-OK
-move 0 0
-move 1 2
-move 2 2
-move 3 1
-move 4 3
-move 5 0
-move 6 2
-move 8 0
-move 9 2
-OK
 move 0 2
-move 1 0
-move 2 0
-move 3 1
-move 4 3
-move 5 0
-move 6 2
-move 8 0
-move 9 2
-OK
-move 0 2
-move 1 2
-move 2 0
-move 3 3
-move 4 3
-missile 4 463
-move 5 0
-move 6 0
-move 8 0
-move 9 2
-OK
-move 0 0
-move 1 2
-move 2 0
-move 3 3
-move 4 2
-move 5 3
-move 6 2
-move 8 0
-move 9 2
-OK
-move 0 2
-move 1 0
-move 2 0
-move 3 0
-move 4 2
-move 5 3
-move 6 2
-move 8 0
-move 9 2
-OK
-move 0 0
-move 1 0
+move 1 1
 move 2 3
 move 3 3
-move 4 2
-move 5 0
-move 6 0
+move 4 1
+move 5 3
+move 6 1
 move 8 0
 move 9 2
 OK
 move 0 2
-move 1 0
-move 2 0
-move 3 3
-move 4 1
-move 5 0
-move 6 0
-move 8 0
-move 9 2
-OK
-move 0 0
-move 1 0
-move 2 0
-move 3 3
-move 4 1
-move 5 0
-move 6 0
-move 8 0
-move 9 2
-OK
-move 0 0
-move 1 3
-move 2 0
-move 3 0
-move 4 1
-move 5 0
-move 6 0
-move 8 0
-move 9 2
-OK
-move 0 0
-move 1 0
-move 2 0
-move 3 3
+move 1 1
+move 2 3
+move 3 1
 move 4 1
 move 5 3
 move 6 3
 move 8 0
-move 9 0
+move 9 2
 OK
 move 0 2
-move 1 0
-move 2 0
-move 3 3
-move 4 2
+move 1 3
+move 2 3
+move 3 1
+move 4 1
 move 5 3
-move 6 0
+move 6 1
 move 8 0
 move 9 2
 OK
-move 0 2
-move 1 0
-move 2 0
-move 3 0
-move 4 2
-attack 4 0 8
+move 0 1
+move 1 1
+move 2 3
+move 3 3
+move 4 1
+move 5 1
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 3
+move 3 3
+move 4 1
 move 5 3
-move 6 0
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 3
+move 3 3
+move 4 3
+move 5 1
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 3
+move 3 3
+move 4 3
+move 5 1
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 3
+move 4 3
+move 5 1
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 3
+move 4 3
+move 5 1
+fuel 5 295
+missile 5 837
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 3
+move 4 3
+move 5 0
+move 6 3
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 3
+move 2 1
+move 3 3
+move 4 1
+move 5 2
+move 6 3
+move 8 0
+move 9 0
+OK
+move 0 1
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+move 5 2
+attack 5 2 9
+move 6 1
+move 8 0
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 1
+move 4 3
+move 5 2
+attack 5 2 3
+move 6 1
 move 8 3
 move 9 2
 OK
-move 0 0
-move 1 0
-move 2 0
-move 3 0
-attack 4 2 3
-move 4 0
-attack 4 2 2
-move 5 3
-missile 5 852
-move 6 0
+move 0 1
+move 1 1
+move 2 1
+move 3 1
+move 4 3
+move 5 2
+attack 5 2 8
+move 6 3
 move 8 3
 move 9 0
 OK
-move 0 2
+move 0 1
 move 1 3
 move 2 3
-move 3 0
-attack 4 0 5
-attack 4 3 8
-move 4 0
-attack 4 2 7
-move 6 0
+move 3 1
+move 4 1
+attack 5 0 8
+attack 5 1 1
+move 5 2
+attack 5 2 1
+move 6 3
 move 8 3
 move 9 2
 OK
-move 0 2
+move 0 1
+missile 0 904
 move 1 3
 move 2 3
-move 3 0
-move 4 2
+move 3 1
+move 4 3
+attack 5 0 9
+move 5 2
+attack 5 2 8
 move 6 3
 move 8 3
 move 9 2
@@ -237,9 +242,13 @@ missile 9 988
 OK
 move 0 0
 move 1 3
-move 2 0
-move 3 3
-move 4 2
+move 2 1
+move 3 1
+move 4 1
+attack 5 1 10
+attack 5 0 5
+move 5 0
+attack 5 0 6
 move 6 3
 move 8 0
 move 9 2
@@ -247,10 +256,10 @@ attack 9 2 7
 OK
 move 0 0
 move 1 3
-move 2 0
-move 3 3
+move 2 1
+move 3 1
 move 4 1
-attack 4 1 4
+move 5 0
 move 6 3
 move 8 0
 attack 9 0 4
@@ -258,47 +267,58 @@ move 9 0
 attack 9 2 2
 OK
 move 0 0
+attack 0 2 6
 move 1 3
-move 2 0
+move 2 3
 move 3 3
-missile 3 356
-move 4 2
-attack 4 1 8
+move 4 1
+move 5 3
+attack 5 3 9
 move 6 3
 move 8 3
 move 9 0
 attack 9 2 10
 OK
-move 0 0
+move 0 2
+attack 0 2 4
 move 1 3
-move 2 0
-move 3 2
-attack 4 2 6
-move 4 2
-attack 4 1 8
+move 2 3
+move 3 3
+move 4 1
+fuel 4 26
+attack 5 0 8
+move 5 0
+attack 5 3 5
 move 6 3
-move 8 0
+move 8 3
 move 9 2
 attack 9 2 9
 OK
-move 0 3
+move 0 2
+attack 0 2 6
 move 1 3
 move 2 3
-move 3 2
+move 3 3
 move 4 0
-attack 4 2 1
+attack 5 0 7
+move 5 2
+attack 5 2 5
 move 6 3
-move 8 0
+move 8 3
+fuel 8 115
 move 9 2
 OK
-move 0 0
+move 0 2
+attack 0 2 3
 move 1 3
 move 2 3
 move 3 2
-attack 4 0 9
 move 4 0
-attack 4 0 8
+fuel 4 2
+missile 4 459
+move 5 0
 move 6 3
+move 7 3
 move 8 0
 move 9 1
 attack 9 1 5
@@ -307,2087 +327,2144 @@ move 0 0
 move 1 3
 move 2 3
 move 3 2
-attack 4 3 9
 move 4 0
+move 5 0
 move 6 3
+move 7 3
 move 8 0
+fuel 8 232
 attack 9 2 6
 move 9 2
 attack 9 2 2
 OK
-move 0 0
+move 0 2
+attack 0 2 4
 move 1 3
 move 2 3
 move 3 2
-move 4 2
-move 6 3
-move 8 0
+move 4 0
+attack 4 0 10
+move 5 0
+attack 5 0 10
+move 6 1
+move 7 0
+move 8 2
 move 9 2
 attack 9 1 4
 OK
 move 0 0
-move 1 3
+attack 0 2 3
+move 1 1
 move 2 3
-move 3 2
-move 4 2
-attack 4 2 10
+move 3 0
+move 4 0
+attack 5 2 2
+move 5 0
+attack 5 0 10
 move 6 3
+move 7 0
 move 8 2
 move 9 0
 OK
 move 0 0
+attack 0 2 4
 move 1 3
 move 2 3
-move 3 2
-move 4 2
-attack 4 2 4
+move 3 0
+move 4 0
+move 5 0
+attack 5 3 3
 move 6 3
-move 8 2
+move 7 0
+move 8 1
 move 9 3
 OK
-move 0 3
+move 0 0
+attack 0 2 1
 move 1 3
 move 2 3
-move 3 1
+move 3 0
+move 4 2
+move 5 3
+attack 5 3 4
+move 6 0
+move 7 0
+move 8 1
+move 9 3
+OK
+move 0 2
+attack 0 2 3
+move 1 0
+move 2 3
+move 3 0
 move 4 2
 attack 4 2 5
+attack 5 0 9
+move 5 3
+attack 5 3 9
+move 6 0
+move 7 0
+move 8 1
+missile 8 618
+move 9 3
+OK
+move 0 2
+attack 0 2 4
+move 1 0
+move 2 1
+move 3 0
+move 4 0
+attack 4 2 9
+attack 5 0 10
+move 5 3
+attack 5 3 1
 move 6 3
+move 7 0
+move 8 2
+attack 8 2 2
+move 9 3
+OK
+attack 0 1 9
+move 0 2
+attack 0 2 3
+move 1 3
+move 2 3
+move 3 0
+move 4 0
+move 5 0
+move 6 0
+move 7 0
 move 8 0
-move 9 3
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-move 6 3
-move 8 2
-move 9 3
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-attack 4 1 1
-move 6 3
-move 8 2
-move 9 3
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 1
-move 4 3
-attack 4 1 1
-move 6 3
-move 8 2
 move 9 3
 attack 9 3 3
 OK
-move 0 3
-move 1 3
+move 0 0
+move 1 0
 move 2 3
-move 3 1
-move 4 1
+move 3 0
+move 4 0
+move 5 3
+attack 5 3 5
 move 6 3
+move 7 0
 move 8 2
-move 9 3
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 2
-move 4 1
-move 6 3
-move 8 2
-move 9 3
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-move 6 3
-move 8 0
 move 9 3
 OK
 move 0 0
 move 1 3
-move 2 3
-move 3 2
-move 4 1
+move 2 0
+move 3 0
+move 4 0
+move 5 0
+attack 5 3 9
 move 6 3
-move 8 0
-move 9 1
-attack 9 1 2
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 2
-move 4 1
-attack 4 1 8
-move 6 3
-move 8 0
+move 7 0
+move 8 2
 move 9 3
-attack 9 1 7
 OK
 move 0 0
 move 1 3
-move 2 3
-move 3 0
-move 4 3
-attack 4 1 7
+move 2 0
+move 3 3
+move 4 0
+attack 4 0 2
+move 5 2
 move 6 3
-move 8 0
+move 7 0
+move 8 2
 move 9 3
-attack 9 1 4
 OK
-move 0 3
+move 0 0
+attack 0 2 10
 move 1 3
-move 2 3
-move 3 0
-move 4 1
-attack 4 1 1
-move 6 3
-move 8 0
-move 9 1
-attack 9 1 2
-OK
-move 0 3
-move 1 1
 move 2 3
 move 3 3
-attack 3 1 3
-move 4 3
-attack 4 1 3
-move 6 3
-move 8 0
-move 9 1
-OK
-move 0 0
-move 1 3
-move 2 3
-move 3 2
-move 4 1
-attack 4 1 6
-move 6 1
-move 8 0
-move 9 1
-attack 9 1 4
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 2
 move 4 2
-move 6 3
+move 5 2
+attack 5 2 5
+move 6 0
+move 7 0
 move 8 2
-move 9 3
-attack 9 1 9
-OK
-move 0 3
-move 1 0
-move 2 3
-move 3 2
-move 4 2
-move 6 3
-move 8 2
+attack 8 2 5
 move 9 1
 attack 9 1 2
 OK
-move 0 3
+move 0 0
+attack 0 2 6
 move 1 0
-move 2 3
-move 3 2
-move 4 2
-attack 4 2 8
-move 6 0
-move 8 2
-move 9 3
-attack 9 1 6
-OK
-move 0 3
-missile 0 904
-move 1 3
-move 2 3
-move 3 2
-move 4 2
+move 2 0
+move 3 0
+move 4 0
 attack 4 2 2
+move 5 2
+attack 5 2 1
 move 6 0
-move 8 2
-fuel 8 367
-move 9 1
-attack 9 1 1
-OK
-move 0 2
-move 1 3
-move 2 1
-move 3 1
-move 4 0
-attack 4 2 4
-move 6 3
-move 8 3
+move 7 3
+move 8 0
+attack 8 2 10
 move 9 3
-attack 9 1 5
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 1
-attack 3 1 1
-move 4 2
-move 6 3
-move 8 3
-attack 9 3 4
-move 9 1
-attack 9 1 4
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 2
-move 4 1
-attack 4 1 10
-move 6 3
-move 8 3
-move 9 2
-attack 9 2 4
-OK
-move 0 1
-move 1 3
-move 2 0
-move 3 2
-move 4 2
-move 6 3
-move 8 3
-move 9 2
-attack 9 2 8
-OK
-move 0 1
-move 1 3
-move 2 0
-move 3 2
-move 4 2
-attack 4 1 9
-move 6 3
-move 8 1
-attack 9 1 9
-move 9 1
-attack 9 1 1
-OK
-move 0 1
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-move 6 3
-move 8 1
-move 9 3
-OK
-move 0 1
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-attack 4 1 3
-move 6 3
-move 8 1
-move 9 1
-attack 9 1 6
-OK
-move 0 1
-move 1 3
-move 2 3
-move 3 3
-move 4 3
-attack 4 1 2
-move 6 3
-move 8 1
-move 9 1
-attack 9 1 6
-OK
-move 0 1
-move 1 0
-move 2 3
-move 3 1
-move 4 1
-attack 4 1 2
-move 6 3
-move 8 1
-move 9 2
-OK
-move 0 1
-move 1 0
-fuel 1 59
-move 2 3
-move 3 1
-move 4 1
-move 6 0
-move 8 1
-move 9 2
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 1
-move 4 1
-move 6 0
-fuel 6 60
-move 8 1
-move 9 2
-attack 9 1 1
-OK
-move 0 2
-move 1 1
-move 2 3
-move 3 1
-move 4 1
-attack 4 1 3
-move 6 1
-move 8 3
-move 9 1
-attack 9 1 3
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 3
-move 4 3
-attack 4 3 8
-move 6 1
-move 8 3
-attack 9 2 7
-move 9 2
-attack 9 2 4
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 3
-move 4 3
-attack 4 3 6
-move 6 2
-move 8 3
-move 9 1
-attack 9 1 4
-OK
-move 0 2
-move 1 3
-move 2 0
-move 3 3
-move 4 3
-attack 4 1 1
-move 6 2
-move 8 3
-move 9 2
-attack 9 2 9
-OK
-move 0 2
-move 1 3
-move 2 0
-fuel 2 95
-move 3 3
-attack 4 3 1
-move 4 3
-attack 4 3 9
-move 6 2
-move 8 3
-move 9 1
-attack 9 1 1
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 3
-move 4 3
-attack 4 1 9
-move 6 2
-move 8 1
-move 9 2
-attack 9 1 6
-OK
-move 0 1
-move 1 1
-move 2 1
-move 3 1
-attack 3 1 1
-attack 4 3 5
-move 4 1
-attack 4 1 9
-move 6 2
-move 8 3
-move 9 2
-attack 9 1 10
-OK
-move 0 2
-move 1 1
-move 2 3
-attack 3 3 6
-move 3 0
-move 4 3
-attack 4 1 3
-move 6 2
-move 8 3
-attack 9 0 8
-attack 9 2 6
-move 9 2
-attack 9 2 6
-OK
-move 0 2
-move 1 3
-move 2 3
-move 3 3
-attack 3 3 5
-move 4 1
-attack 4 1 1
-move 6 2
-move 8 3
-move 9 2
-attack 9 2 2
-OK
-move 0 1
-move 1 1
-move 2 3
-move 3 3
-attack 3 3 9
-move 4 3
-attack 4 3 9
-move 6 2
-move 8 1
-attack 9 0 4
-move 9 2
-attack 9 2 5
-OK
-move 0 2
-move 1 1
-move 2 3
-move 3 3
-attack 4 1 10
-move 4 3
-attack 4 1 10
-move 6 2
-move 8 3
-move 9 1
-attack 9 1 3
-OK
-move 0 2
-move 1 1
-move 2 3
-move 3 3
-attack 3 1 6
-attack 4 3 1
-move 4 1
-attack 4 1 1
-move 6 2
-move 8 1
-move 9 1
-attack 9 1 9
-OK
-move 0 2
-move 1 1
-move 2 1
-attack 3 0 9
-move 3 2
-move 4 3
-attack 4 1 5
-move 6 2
-move 8 1
-attack 9 2 4
-move 9 3
-attack 9 1 9
-OK
-move 0 1
-move 1 1
-move 2 1
-move 3 1
-attack 3 1 4
-move 4 3
-attack 4 1 5
-move 6 2
-move 8 1
-move 9 1
 attack 9 1 7
 OK
-move 0 1
-move 1 1
+move 0 0
+move 1 0
 move 2 3
 move 3 0
-move 4 3
-attack 4 1 10
-move 6 2
-move 8 1
-fuel 8 26
-missile 8 618
-move 9 3
-attack 9 3 5
-OK
-move 0 1
-move 1 1
-move 2 1
-move 3 0
-move 4 3
-attack 4 1 9
-move 6 2
-move 8 2
-attack 9 1 3
-move 9 3
-attack 9 3 5
-OK
-move 0 3
-move 1 2
-move 2 1
-move 3 0
-attack 4 0 4
-attack 4 3 3
-move 4 1
-attack 4 1 8
-move 6 2
+fuel 3 97
+move 4 0
+move 5 2
+attack 5 2 7
+move 6 0
+move 7 0
 move 8 2
 move 9 3
-attack 9 3 6
+attack 9 1 4
 OK
-move 0 3
-move 1 1
-move 2 1
+move 0 0
+move 1 0
+move 2 3
 move 3 0
-attack 4 3 8
 move 4 2
-attack 4 1 4
-move 6 2
+attack 4 2 6
+move 5 0
+attack 5 0 5
+move 6 3
+move 7 0
 move 8 2
-move 9 0
-attack 9 3 4
-OK
-move 0 1
-move 1 1
-move 2 1
-move 3 0
-move 4 1
-move 6 2
-move 8 1
-move 9 3
+attack 8 2 10
+move 9 1
+attack 9 1 2
 OK
 move 0 3
+attack 0 3 7
 move 1 3
-move 2 1
-move 3 0
-move 4 1
-attack 4 1 5
-move 6 2
-move 8 1
-move 9 3
-attack 9 3 2
-OK
-move 0 3
-move 1 1
-move 2 1
-move 3 0
-move 4 3
-attack 4 1 3
-move 6 2
-move 8 2
-attack 9 0 6
-move 9 0
-attack 9 3 6
-OK
-move 0 1
-move 1 1
-fuel 1 23
-missile 1 120
-move 2 1
-move 3 0
-move 4 1
-attack 4 1 1
-move 6 2
-move 8 2
-move 9 3
-OK
-move 0 1
-move 1 0
-move 2 2
-move 3 3
-move 4 3
-move 6 2
-move 8 2
-move 9 3
-OK
-move 0 1
-move 1 0
-attack 1 0 10
-move 2 1
-move 3 3
-move 4 3
-attack 4 1 3
-move 6 2
-move 8 2
-move 9 1
-attack 9 1 10
-OK
-move 0 3
-move 1 2
-move 2 1
-move 3 3
-fuel 3 140
-move 4 3
-attack 4 1 4
-move 6 2
-move 8 1
-move 9 2
-OK
-move 0 1
-move 1 2
 move 2 3
+move 3 0
+move 4 2
+move 5 0
+attack 5 2 4
+move 6 3
+move 7 0
+attack 8 1 10
+move 8 2
+attack 8 2 9
+move 9 1
+OK
+move 0 0
+attack 0 3 1
+move 1 3
+move 2 0
 move 3 2
-move 4 3
-attack 4 1 10
-move 6 2
-move 8 1
-move 9 1
-OK
-move 0 3
-move 1 2
-attack 1 2 5
-move 2 1
-move 3 1
-move 4 0
-move 6 2
-move 8 1
-move 9 1
-OK
-move 0 1
-move 1 2
-attack 1 1 9
-move 2 1
-fuel 2 48
-missile 2 247
-move 3 1
-move 4 0
-move 6 2
-move 8 1
-move 9 1
-attack 9 1 9
-OK
-move 0 3
-attack 1 2 8
-move 1 0
-attack 1 2 7
-move 2 2
-move 3 1
-move 4 0
-attack 4 0 5
-move 6 2
-move 8 1
+missile 3 740
+move 4 2
+move 5 2
+attack 5 2 4
+move 6 3
+move 7 2
+move 8 0
+attack 8 2 8
 move 9 1
 attack 9 1 4
 OK
-move 0 3
-move 1 0
-attack 1 3 5
-move 2 2
-move 3 1
-move 4 0
-attack 4 0 10
-move 6 2
-move 8 1
-move 9 1
-attack 9 1 4
-OK
-move 0 1
-move 1 0
-attack 1 3 9
-move 2 1
-move 3 1
-attack 4 2 10
-move 4 0
-attack 4 3 8
-move 6 2
-move 8 1
-attack 9 2 9
-move 9 3
-attack 9 1 1
-OK
-move 0 1
-move 1 0
-attack 1 0 4
-move 2 1
-move 3 1
-move 4 3
-attack 4 3 1
-move 6 2
-move 8 1
-move 9 1
-attack 9 1 5
-OK
-move 0 1
-move 1 0
-attack 1 2 3
-move 2 2
-move 3 1
-move 4 3
-attack 4 3 8
-move 6 2
-move 8 1
-move 9 1
-OK
-move 0 1
-attack 1 3 9
-attack 1 0 10
-move 1 0
-attack 1 2 9
-move 2 1
-move 3 1
-attack 4 1 10
-attack 4 0 5
-move 4 3
-attack 4 3 3
-move 6 2
-move 8 1
-move 9 1
-attack 9 1 3
-OK
-move 0 1
-move 1 0
-attack 1 2 5
-move 2 1
-move 3 1
-attack 4 0 9
-move 4 0
-attack 4 3 8
-move 6 2
-move 8 1
-attack 9 3 10
-move 9 3
-attack 9 3 9
-OK
-move 0 3
-attack 1 0 2
-move 1 2
-attack 1 2 1
-move 2 2
-move 3 1
+attack 0 0 4
+move 0 0
+attack 0 3 2
+move 1 3
+move 2 0
+move 3 2
 attack 3 1 5
 move 4 0
-attack 4 2 6
-move 6 2
-move 8 1
-attack 9 1 2
+move 5 0
+move 6 3
+move 7 0
+move 8 2
+attack 8 2 3
 move 9 3
-attack 9 1 3
+attack 9 1 9
 OK
-move 0 3
-move 1 2
-attack 1 2 7
-move 2 2
-move 3 3
-move 4 0
-move 6 1
-move 8 1
-attack 9 3 2
-move 9 3
-OK
-move 0 3
-move 1 1
-attack 1 1 10
-move 2 2
-move 3 3
-attack 3 1 3
-move 4 2
-attack 4 2 5
-move 6 1
-move 8 1
-move 9 1
-attack 9 1 3
-OK
-move 0 3
-attack 0 1 6
-attack 1 2 1
-move 1 1
-attack 1 1 6
-move 2 2
-move 3 3
-attack 3 1 8
-move 4 0
-move 6 1
-move 8 1
-attack 9 3 9
-move 9 1
-attack 9 1 8
-OK
-attack 0 0 7
-move 0 3
-attack 0 1 9
+move 0 0
+attack 0 3 9
 move 1 3
-move 2 2
+move 2 0
 move 3 1
-attack 3 1 9
+attack 3 1 1
 move 4 0
-move 6 1
+move 5 0
+attack 5 2 1
+move 6 3
+move 7 0
+move 8 2
+attack 8 1 4
+move 9 1
+attack 9 1 2
+OK
+move 0 0
+attack 0 3 10
+move 1 3
+move 2 3
+move 3 1
+attack 3 1 4
+move 4 0
+attack 4 3 4
+move 5 2
+move 6 3
+move 7 0
+move 8 2
+attack 8 2 5
+move 9 3
+attack 9 1 6
+OK
+move 0 3
+move 1 3
+move 2 3
+move 3 2
+attack 3 1 6
+move 4 2
+move 5 2
+move 6 0
+move 7 0
 move 8 1
-move 9 2
+move 9 1
+attack 9 1 1
+OK
+move 0 3
+attack 0 3 9
+move 1 0
+move 2 3
+move 3 2
+move 4 2
+move 5 2
+move 6 0
+move 7 3
+move 8 1
+attack 8 1 10
+move 9 3
+attack 9 1 5
+OK
+move 0 3
+move 1 0
+move 2 3
+move 3 2
+attack 3 2 5
+move 4 2
+move 5 2
+attack 5 2 8
+move 6 0
+move 7 0
+move 8 3
+attack 8 1 9
+attack 9 3 4
+move 9 1
 attack 9 1 4
 OK
 move 0 3
-move 1 3
-move 2 2
-move 3 3
-attack 3 1 10
-move 4 0
-attack 4 0 4
-move 6 1
+attack 0 3 2
+move 1 0
+move 2 3
+move 3 2
+attack 3 1 8
+move 4 2
+move 5 2
+move 6 0
+move 7 0
+attack 8 3 3
 move 8 1
 attack 8 1 8
 move 9 2
-attack 9 2 2
+attack 9 2 4
 OK
-move 0 1
-move 1 3
-move 2 2
-move 3 0
-attack 4 2 2
+attack 0 1 3
+move 0 3
+attack 0 3 9
+move 1 0
+move 2 3
+attack 3 2 7
+move 3 2
+attack 3 1 2
 move 4 2
-attack 4 2 3
-move 6 2
-move 8 1
-attack 8 1 3
-attack 9 1 2
-move 9 2
-attack 9 1 4
-OK
-move 0 2
-move 1 1
-move 2 2
-move 3 0
-move 4 0
-attack 4 2 8
-move 6 2
-move 8 3
-attack 8 1 3
-move 9 2
-OK
-move 0 2
-move 1 3
-move 2 2
-move 3 3
-move 4 0
-move 6 1
-attack 8 3 4
+move 5 2
+move 6 3
+move 7 0
+attack 8 3 8
 move 8 2
+attack 8 2 5
 move 9 2
-attack 9 1 10
+attack 9 2 8
 OK
-move 0 1
+attack 0 0 8
+move 0 3
+attack 0 1 9
 move 1 3
-move 2 2
-move 3 3
-move 4 0
-move 6 1
-move 8 2
-attack 8 2 4
-move 9 1
-OK
-move 0 1
-move 1 3
-move 2 2
-move 3 3
-move 4 0
-move 6 1
-move 8 0
-move 9 1
-attack 9 1 9
-OK
-move 0 2
-move 1 1
-move 2 2
-move 3 3
-move 4 0
-attack 4 0 4
-move 6 1
-move 8 2
-move 9 2
-attack 9 1 10
-OK
-move 0 2
-move 1 1
 move 2 0
-move 3 3
-move 4 0
-attack 4 3 5
-move 6 1
+move 3 1
+attack 3 1 3
+move 4 2
+move 5 2
+move 6 3
+move 7 0
+attack 8 1 4
 move 8 2
-move 9 2
-attack 9 1 6
-OK
-move 0 1
-move 1 1
-move 2 2
-move 3 3
-attack 4 2 4
-move 4 3
-attack 4 3 5
-move 6 1
-move 8 2
-attack 8 2 3
+attack 8 2 5
+attack 9 1 9
 move 9 1
 attack 9 1 1
 OK
-move 0 0
-move 1 1
-move 2 2
-move 3 3
-move 4 1
-move 6 1
-missile 6 94
-move 8 0
-attack 8 0 9
-move 9 3
-OK
-move 0 0
-move 1 1
-move 2 2
-move 3 1
-move 4 3
-move 6 3
+move 0 3
+attack 0 1 7
+move 1 3
+move 2 0
+move 3 2
+attack 3 1 4
+move 4 0
+move 5 2
+move 6 0
+move 7 0
 move 8 2
 attack 8 2 1
 move 9 3
 OK
-move 0 2
-attack 0 2 1
-move 1 1
-move 2 2
-move 3 1
-attack 3 1 9
-move 4 3
-move 6 3
-move 8 2
-attack 8 2 2
-move 9 3
-attack 9 1 5
-OK
 move 0 0
-move 1 1
-move 2 2
+move 1 0
+move 2 0
 move 3 2
-move 4 3
-move 6 3
-move 8 2
-attack 8 1 10
+attack 3 1 8
+move 4 2
+move 5 2
+attack 5 2 6
+move 6 0
+move 7 0
+move 8 0
+attack 8 2 10
 move 9 1
-attack 9 1 9
+attack 9 1 6
+OK
+move 0 3
+move 1 0
+move 2 0
+move 3 2
+attack 3 1 8
+move 4 2
+move 5 0
+attack 5 0 9
+move 6 0
+move 7 0
+attack 8 0 1
+move 8 0
+attack 8 2 9
+attack 9 3 9
+move 9 1
+attack 9 1 6
+OK
+move 0 3
+move 1 0
+move 2 3
+move 3 0
+attack 3 2 1
+move 4 2
+move 5 0
+attack 5 2 9
+move 6 0
+move 7 3
+move 8 2
+move 9 3
+attack 9 1 3
+OK
+move 0 3
+attack 0 3 7
+move 1 0
+move 2 3
+move 3 0
+attack 3 0 8
+move 4 0
+move 5 0
+move 6 0
+move 7 3
+move 8 2
+attack 8 2 3
+move 9 3
+attack 9 1 2
+OK
+attack 0 0 9
+move 0 0
+attack 0 3 9
+move 1 0
+move 2 0
+move 3 0
+move 4 2
+move 5 2
+move 6 0
+move 7 0
+attack 8 1 10
+move 8 2
+attack 8 2 9
+move 9 1
+attack 9 1 2
+OK
+attack 0 0 3
+move 0 0
+attack 0 2 4
+move 1 0
+move 2 0
+move 3 2
+move 4 2
+move 5 2
+move 6 0
+move 7 0
+attack 8 1 1
+move 8 0
+attack 8 2 9
+move 9 0
 OK
 move 0 0
-attack 0 0 1
-move 1 1
-fuel 1 32
-missile 1 120
+attack 0 0 2
+move 1 0
+move 2 0
+move 3 2
+attack 3 2 10
+move 4 2
+move 5 2
+move 6 0
+move 7 0
+attack 8 0 5
+move 8 0
+attack 8 2 9
+move 9 0
+attack 9 3 10
+OK
+move 0 0
+attack 0 2 5
+move 1 0
+move 2 0
+move 3 2
+attack 3 2 4
+move 4 2
+move 5 2
+move 6 3
+move 7 0
+fuel 7 312
+move 8 0
+attack 8 2 1
+move 9 0
+attack 9 3 2
+OK
+attack 0 3 6
+move 0 0
+attack 0 0 5
+move 1 3
+move 2 0
+move 3 2
+attack 3 2 5
+move 4 2
+move 5 1
+move 6 3
+move 7 0
+attack 8 0 6
+move 8 3
+attack 8 3 4
+move 9 3
+attack 9 3 8
+OK
+attack 0 2 10
+attack 0 3 4
+move 0 0
+attack 0 2 3
+move 1 3
+move 2 0
+move 3 1
+move 4 1
+move 5 1
+attack 5 1 1
+move 6 3
+move 7 0
+move 8 0
+attack 8 0 5
+attack 9 0 4
+move 9 0
+OK
+attack 0 0 6
+move 0 0
+attack 0 0 5
+move 1 3
 move 2 0
 move 3 1
 attack 3 1 1
 move 4 1
+move 5 1
 move 6 3
-attack 8 0 3
+move 7 0
 move 8 0
-attack 9 3 6
+attack 8 3 9
+move 9 0
+attack 9 3 1
+OK
+attack 0 2 9
+move 0 0
+attack 0 2 1
+move 1 3
+move 2 0
+move 3 3
+move 4 1
+move 5 1
+move 6 3
+move 7 0
+move 8 3
 move 9 3
-attack 9 1 5
+OK
+attack 0 3 2
+attack 0 0 2
+move 0 0
+attack 0 3 3
+move 1 3
+move 2 3
+move 3 1
+move 4 1
+move 5 1
+move 6 3
+move 7 3
+move 8 3
+attack 8 1 6
+move 9 3
+OK
+move 0 3
+attack 0 3 10
+move 1 3
+move 2 3
+move 3 1
+move 4 1
+move 5 1
+move 6 3
+fuel 6 69
+move 7 3
+attack 8 0 9
+move 8 0
+move 9 3
+attack 9 1 8
+OK
+move 0 3
+move 1 3
+fuel 1 51
+move 2 0
+move 3 3
+move 4 3
+move 5 3
+move 6 2
+move 7 3
+move 8 0
+move 9 3
+attack 9 1 7
+OK
+move 0 3
+attack 0 1 1
+move 1 2
+move 2 0
+move 3 3
+move 4 3
+attack 4 3 3
+move 5 1
+move 6 2
+move 7 3
+move 8 2
+move 9 1
+attack 9 1 1
 OK
 move 0 0
-attack 0 0 1
+attack 0 0 4
 move 1 2
 move 2 0
 move 3 1
-attack 3 1 2
 move 4 1
+move 5 3
 move 6 1
-move 8 0
-move 9 1
-attack 9 1 2
+move 7 3
+move 8 2
+attack 8 2 6
+move 9 3
+attack 9 1 3
 OK
-move 0 0
+move 0 1
+move 1 2
+move 2 0
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+move 7 3
+move 8 2
+move 9 2
+OK
+move 0 1
+move 1 2
+move 2 0
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+missile 6 94
+move 7 3
+move 8 2
+move 9 2
+OK
+move 0 1
+move 1 2
+move 2 0
+move 3 1
+move 4 1
+move 5 1
+move 6 3
+move 7 3
+move 8 2
+move 9 1
+OK
+move 0 1
+attack 0 1 8
+move 1 2
+move 2 0
+move 3 1
+move 4 1
+move 5 1
+move 6 3
+move 7 3
+move 8 1
+move 9 1
+OK
+attack 0 3 3
+move 0 3
+attack 0 1 9
+move 1 1
+move 2 0
+move 3 1
+move 4 1
+move 5 1
+move 6 1
+move 7 3
+move 8 1
+move 9 1
+OK
+attack 0 3 4
+move 0 3
 attack 0 3 7
-move 1 3
+move 1 1
+move 2 0
+move 3 1
+move 4 1
+move 5 1
+move 6 1
+move 7 3
+move 8 1
+move 9 1
+OK
+attack 0 0 7
+move 0 3
+attack 0 3 1
+move 1 1
+move 2 0
+move 3 1
+move 4 1
+move 5 1
+move 6 1
+move 7 3
+move 8 1
+attack 8 1 1
+move 9 2
+OK
+move 0 3
+attack 0 1 3
+move 1 1
+move 2 0
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+move 7 3
+move 8 2
+attack 8 1 6
+move 9 2
+OK
+move 0 1
+move 1 1
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+attack 6 1 8
+move 7 3
+missile 7 899
+move 8 2
+attack 8 1 8
+move 9 3
+OK
+move 0 1
+attack 0 1 6
+move 1 1
 move 2 2
 move 3 3
-move 4 1
+move 4 3
+move 5 3
+attack 6 3 6
 move 6 1
+attack 6 1 9
+move 7 2
 move 8 3
-attack 9 3 6
+move 9 1
+OK
+attack 0 2 4
+move 0 1
+attack 0 1 2
+move 1 1
+move 2 2
+move 3 1
+move 4 1
+move 5 1
+move 6 1
+move 7 1
+move 8 1
+attack 8 1 1
+move 9 1
+OK
+attack 0 2 6
+move 0 2
+attack 0 2 1
+move 1 1
+missile 1 120
+move 2 2
+move 3 1
+move 4 1
+move 5 1
+move 6 1
+attack 6 1 8
+move 7 1
+move 8 1
+move 9 1
+OK
+move 0 2
+attack 0 2 6
+move 1 0
+move 2 2
+move 3 1
+move 4 1
+move 5 1
+move 6 3
+attack 6 1 7
+move 7 1
+move 8 1
+attack 8 1 2
+move 9 2
+OK
+attack 0 1 4
+move 0 2
+attack 0 2 10
+move 1 2
+attack 1 2 10
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+attack 6 1 5
+move 7 1
+move 8 2
+attack 8 1 6
+move 9 2
+OK
+move 0 1
+attack 0 1 5
+move 1 2
+attack 1 2 4
+move 2 2
+move 3 2
+move 4 2
+move 5 2
+move 6 1
+attack 6 1 9
+move 7 1
+move 8 1
+attack 8 1 2
 move 9 2
 attack 9 1 3
 OK
 move 0 3
-attack 0 3 1
-move 1 1
+attack 0 1 6
+move 1 2
+attack 1 2 3
 move 2 2
+fuel 2 143
 move 3 1
 move 4 1
+move 5 1
 move 6 1
-attack 6 1 7
+move 7 1
+attack 8 2 4
 move 8 3
-attack 8 3 3
-move 9 2
-attack 9 1 7
-OK
-attack 0 0 10
-move 0 0
-attack 0 0 5
-move 1 1
-move 2 2
-move 3 1
-move 4 3
-attack 6 2 9
-move 6 2
-attack 6 1 9
-move 8 0
-move 9 2
-OK
-attack 0 3 8
-move 0 0
-move 1 1
-move 2 2
-move 3 1
-move 4 3
-attack 6 2 2
-move 6 0
-attack 6 2 8
-move 8 3
-attack 8 3 9
-move 9 2
-OK
-move 0 0
-attack 0 2 5
-move 1 1
-move 2 2
-move 3 1
-move 4 3
-move 6 2
-move 8 0
-attack 8 3 10
-move 9 1
-OK
-move 0 0
-move 1 1
-move 2 2
-move 3 1
-move 4 1
-move 6 2
-move 8 0
-move 9 1
-attack 9 1 3
-OK
-move 0 0
-move 1 1
-attack 1 1 8
-move 2 2
-move 3 1
-move 4 1
-move 6 1
-attack 6 1 3
-move 8 3
-attack 8 3 10
-move 9 1
-attack 9 1 10
-OK
-move 0 0
-attack 1 3 6
-move 1 1
-attack 1 1 9
-move 2 2
-move 3 1
-attack 3 1 7
-move 4 1
-attack 6 2 9
-move 6 2
-move 8 0
-attack 8 3 4
-move 9 1
-attack 9 1 2
-OK
-move 0 0
-move 1 1
-move 2 2
-move 3 1
-attack 3 1 10
-move 4 1
-move 6 2
-attack 6 2 10
-move 8 3
-attack 8 3 3
-move 9 2
-attack 9 2 7
-OK
-move 0 0
-move 1 1
-attack 1 1 8
-move 2 2
-move 3 1
-attack 3 1 1
-move 4 1
-move 6 2
-attack 6 1 9
-attack 8 0 2
-move 8 3
-attack 8 1 6
-move 9 2
-OK
-move 0 0
-attack 0 0 3
-move 1 3
-attack 1 1 7
-move 2 2
-move 3 3
-move 4 1
-fuel 4 126
-missile 4 92
-move 6 1
-attack 6 1 2
-move 8 0
-move 9 2
-attack 9 2 6
-OK
-move 0 0
-move 1 1
-attack 1 1 5
-move 2 2
-move 3 1
-move 4 0
-move 6 1
-attack 6 1 1
-move 8 0
-attack 9 1 4
-move 9 0
-attack 9 2 8
-OK
-move 0 0
-attack 0 3 7
-move 1 1
-attack 1 1 9
-move 2 2
-move 3 1
-attack 3 1 4
-move 4 0
-attack 6 2 4
-move 6 1
-attack 6 1 7
-move 8 0
-move 9 0
-attack 9 3 1
-OK
-move 0 0
-attack 0 2 1
-move 1 1
-move 2 0
-move 3 1
-attack 3 1 9
-move 4 0
-attack 6 3 8
-move 6 2
-move 8 2
-attack 8 2 7
+attack 8 1 2
 move 9 3
 OK
 move 0 2
-move 1 1
-attack 1 1 3
+move 1 2
+attack 1 1 6
 move 2 0
-move 3 3
-move 4 0
-move 6 2
-move 8 0
-attack 8 2 3
+move 3 1
+move 4 1
+move 5 1
+move 6 1
+attack 6 1 3
+move 7 1
+move 8 1
+attack 8 1 1
 move 9 1
 OK
 move 0 2
-attack 0 2 2
-attack 1 2 10
+attack 0 1 5
 move 1 2
+attack 1 2 1
 move 2 0
 move 3 1
-attack 3 1 4
-move 4 0
+move 4 1
+move 5 1
+attack 5 1 3
+attack 6 2 10
 move 6 2
+move 7 1
+move 8 3
+attack 8 1 7
+move 9 2
+OK
+move 0 1
+move 1 0
+attack 1 2 3
+move 2 0
+move 3 2
+move 4 2
+move 5 3
+move 6 2
+attack 6 1 4
+move 7 1
+move 8 1
+attack 8 1 7
+move 9 2
+OK
+move 0 1
+attack 0 1 5
+move 1 2
+attack 1 2 5
+move 2 0
+move 3 2
+move 4 2
+move 5 3
+attack 6 2 9
+move 6 0
+attack 6 2 4
+move 7 1
+move 8 3
+attack 8 1 9
+move 9 2
+OK
+attack 0 2 3
+move 0 3
+move 1 1
+move 2 0
+move 3 2
+move 4 2
+move 5 3
+attack 5 3 2
+move 6 1
+move 7 1
+move 8 3
+move 9 2
+OK
+move 0 1
+attack 0 1 5
+move 1 1
+attack 1 1 3
+move 2 3
+move 3 2
+move 4 2
+attack 4 2 10
+move 5 3
+move 6 1
+attack 6 1 3
+move 7 2
+move 8 1
+attack 8 1 3
+move 9 2
+OK
+move 0 1
+attack 0 1 10
+move 1 2
+attack 1 2 3
+move 2 3
+move 3 2
+move 4 2
+move 5 3
+move 6 3
+attack 6 1 3
+move 7 2
+move 8 3
+attack 8 3 8
+move 9 2
+OK
+move 0 1
+attack 0 1 7
+attack 1 1 1
+move 1 2
+attack 1 1 4
+move 2 3
+move 3 2
+move 4 2
+move 5 3
+move 6 3
+move 7 2
+attack 8 1 9
+move 8 1
+attack 8 1 9
+move 9 1
+OK
+attack 0 3 8
+move 0 2
+attack 0 1 1
+attack 1 0 1
+move 1 0
+move 2 3
+move 3 1
+move 4 1
+move 5 3
+move 6 1
+attack 6 1 6
+move 7 2
+attack 8 3 6
+move 8 1
+attack 8 1 1
+move 9 1
+OK
+move 0 1
+attack 0 1 1
+move 1 0
+move 2 3
+move 3 1
+move 4 1
+attack 4 1 9
+move 5 1
+attack 5 1 5
+move 6 0
+move 7 2
+attack 8 2 7
+move 8 2
+move 9 1
+OK
+move 0 3
+attack 0 3 1
+move 1 0
+move 2 3
+move 3 1
+move 4 1
+attack 4 1 4
+move 5 1
+move 6 0
+move 7 2
+move 8 2
+attack 8 1 2
+move 9 1
+OK
+move 0 3
+move 1 0
+move 2 3
+move 3 1
+move 4 1
+attack 4 1 4
+move 5 1
+move 6 0
+move 7 1
+attack 7 1 6
+move 8 1
+attack 8 1 3
+move 9 2
+attack 9 1 9
+OK
+move 0 3
+attack 0 1 7
+move 1 0
+move 2 3
+move 3 3
+move 4 3
+attack 4 1 1
+move 5 1
+move 6 0
+move 7 0
+move 8 0
+move 9 1
+OK
+move 0 1
+move 1 0
+move 2 3
+move 3 1
+move 4 1
+attack 4 1 5
+move 5 1
+move 6 0
+move 7 2
 move 8 2
 attack 8 2 10
 move 9 1
 OK
-attack 0 0 10
-move 0 2
-attack 0 2 5
-move 1 1
-attack 1 1 3
-move 2 0
+move 0 1
+attack 0 1 6
+move 1 0
+move 2 3
+missile 2 247
 move 3 1
-attack 3 1 3
-move 4 0
-move 6 1
-move 8 0
-attack 8 0 6
-move 9 1
-attack 9 1 6
-OK
-attack 0 0 3
-move 0 2
-attack 0 2 1
-move 1 3
-move 2 0
-move 3 3
-move 4 0
-move 6 1
-attack 6 1 6
-attack 8 2 1
+move 4 1
+move 5 1
+attack 5 1 9
+move 6 0
+move 7 2
 move 8 2
-attack 8 2 3
 move 9 3
 OK
-attack 0 1 6
-attack 0 0 2
-move 0 2
+move 0 3
 attack 0 1 9
-move 1 1
-attack 1 1 9
-move 2 2
-move 3 2
-move 4 0
+move 1 0
+move 2 3
+move 3 1
+move 4 1
+attack 4 1 3
+move 5 3
+attack 5 1 8
 move 6 0
+move 7 2
+attack 7 2 9
+move 8 1
+move 9 3
+OK
+move 0 3
+attack 0 3 10
+move 1 0
+move 2 3
+move 3 3
+move 4 3
+attack 4 3 9
+move 5 3
+move 6 0
+move 7 2
+move 8 1
+attack 8 1 2
+move 9 1
+OK
+move 0 1
+attack 0 1 2
+move 1 0
+move 2 3
+move 3 1
+attack 3 1 2
+move 4 3
+attack 4 1 3
+move 5 1
+attack 5 1 10
+move 6 0
+move 7 2
+attack 7 2 9
+attack 8 2 2
+move 8 2
+attack 8 1 9
+move 9 1
+OK
+move 0 1
+attack 0 1 4
+move 1 0
+move 2 1
+move 3 3
+attack 3 3 2
+move 4 3
+move 5 3
+move 6 2
+attack 7 1 3
+move 7 0
+attack 7 2 2
+move 8 2
+attack 8 2 9
+move 9 3
+OK
+move 0 3
+attack 0 1 2
+move 1 0
+move 2 1
+move 3 3
+move 4 1
+attack 4 1 3
+move 5 3
+attack 5 1 4
+move 6 2
+move 7 0
+attack 7 3 4
+move 8 1
+attack 8 1 9
+move 9 3
+OK
+move 0 3
+attack 0 1 4
+move 1 0
+move 2 1
+attack 2 1 6
+move 3 1
+move 4 1
+attack 4 1 8
+attack 5 3 1
+move 5 1
+attack 5 1 5
+move 6 2
+move 7 2
+move 8 1
+attack 8 1 8
+move 9 3
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 1
+move 4 1
+attack 4 1 4
+attack 5 3 10
+move 5 3
+attack 5 3 3
+move 6 2
+move 7 2
+attack 7 1 7
+attack 8 2 10
+move 8 1
+attack 8 1 8
+move 9 1
+OK
+move 0 1
+move 1 0
+move 2 2
+move 3 1
+move 4 1
+attack 4 1 1
+move 5 3
+attack 5 1 7
+move 6 2
+move 7 1
+attack 7 1 8
 move 8 2
 attack 8 1 4
 move 9 3
 OK
-attack 0 2 4
+move 0 3
+move 1 0
+move 2 2
+move 3 3
+move 4 3
+move 5 3
+move 6 2
+move 7 0
+move 8 1
+attack 8 1 8
+move 9 3
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 3
+move 4 3
+move 5 1
+move 6 2
+missile 6 94
+move 7 0
+move 8 3
+move 9 3
+OK
+move 0 3
+attack 0 3 3
+move 1 0
+move 2 2
+move 3 3
+move 4 3
+attack 4 3 8
+move 5 1
+attack 5 1 2
+move 6 3
+move 7 0
+attack 7 2 1
+move 8 1
+attack 8 1 2
+move 9 3
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 3
+move 4 3
+attack 4 3 9
+move 5 1
+attack 5 1 4
+move 6 3
+move 7 2
+attack 7 2 5
+move 8 3
+attack 8 1 10
+move 9 3
+OK
+move 0 3
+attack 0 3 6
+move 1 3
+fuel 1 65
+move 2 2
+move 3 3
+move 4 3
+attack 4 3 3
+move 5 3
+attack 5 1 3
+move 6 3
+attack 7 0 5
+move 7 0
+attack 7 0 9
+move 8 3
+move 9 3
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+move 5 1
+attack 5 1 6
+move 6 1
+attack 6 1 7
+move 7 2
+move 8 3
+attack 8 3 7
+move 9 3
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+attack 4 1 6
+move 5 2
+attack 5 1 10
+move 6 1
+attack 6 1 10
+move 7 2
+move 8 3
+attack 8 1 10
+move 9 3
+attack 9 1 6
+OK
+move 0 3
+move 1 3
+move 2 1
+move 3 3
+move 4 3
+attack 4 1 3
+move 5 2
+move 6 1
+attack 6 1 1
+move 7 1
+move 8 3
+attack 8 3 6
+move 9 3
+OK
+move 0 3
+move 1 3
+move 2 1
+attack 2 1 1
+move 3 3
+move 4 3
+move 5 1
+attack 5 1 10
+move 6 3
+move 7 1
+attack 7 1 1
+move 8 3
+attack 8 3 6
+move 9 2
+OK
+move 0 2
+move 1 3
+move 2 2
+move 3 2
+move 4 2
+move 5 1
+attack 5 1 9
+move 6 3
+move 7 2
+move 8 1
+move 9 1
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 1
+move 4 1
+move 5 2
+move 6 3
+move 7 2
+move 8 1
+attack 8 1 7
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+attack 2 1 8
+move 3 2
+move 4 0
+move 5 1
+attack 5 1 3
+move 6 3
+move 7 2
+attack 7 2 10
+move 8 2
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+attack 2 1 3
+move 3 2
+move 4 0
+move 5 1
+attack 5 1 9
+move 6 1
+move 7 2
+attack 7 1 7
+move 8 2
+move 9 2
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 2
+move 4 0
+move 5 3
+attack 5 1 8
+move 6 1
+attack 7 0 2
+move 7 1
+move 8 2
+attack 8 2 3
+move 9 1
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 1
+move 4 0
+move 5 2
+move 6 1
+move 7 1
+attack 8 1 7
+move 8 1
+move 9 1
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 1
+move 4 0
+move 5 2
+move 6 1
+move 7 1
+move 8 1
+attack 8 1 4
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+move 5 2
+move 6 1
+move 7 1
+move 8 2
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+move 5 1
+attack 5 1 1
+move 6 1
+attack 6 1 3
+move 7 1
+attack 7 1 1
+move 8 2
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+attack 5 2 3
+move 5 2
+attack 5 1 2
+move 6 2
+move 7 3
+move 8 2
+attack 8 1 8
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+move 5 1
+attack 5 1 10
+move 6 2
+move 7 3
+move 8 2
+attack 8 1 8
+move 9 2
+OK
+move 0 2
+attack 0 1 8
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+move 5 3
+move 6 2
+move 7 3
+attack 8 2 5
+move 8 2
+attack 8 1 3
+move 9 2
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+move 5 3
+attack 5 1 3
+move 6 2
+move 7 3
+attack 7 1 3
+attack 8 2 8
+move 8 1
+attack 8 1 10
+move 9 2
+OK
+move 0 2
+attack 0 2 6
+move 1 1
+move 2 1
+move 3 2
+attack 3 1 6
+move 4 0
+move 5 3
+move 6 2
+move 7 1
+move 8 2
+attack 8 1 9
+move 9 2
+OK
+move 0 2
+attack 0 2 5
+move 1 1
+move 2 1
+move 3 2
+attack 3 1 5
+move 4 0
+move 5 3
+move 6 2
+move 7 1
+move 8 2
+move 9 2
+OK
+move 0 1
+attack 0 1 2
+move 1 1
+move 2 1
+move 3 2
+attack 3 1 9
+move 4 0
+move 5 3
+move 6 1
+move 7 1
+move 8 1
+attack 8 1 4
+move 9 2
+attack 9 1 9
+OK
+move 0 2
+attack 0 1 3
+move 1 1
+move 2 1
+move 3 2
+move 4 0
+move 5 1
+attack 5 1 4
+move 6 1
+move 7 1
+move 8 3
+attack 9 0 10
+move 9 2
+attack 9 1 10
+OK
+move 0 2
+attack 0 1 7
+move 1 3
+move 2 3
+move 3 2
+attack 3 2 1
+move 4 0
+move 5 3
+move 6 1
+move 7 1
+move 8 3
+move 9 2
+attack 9 1 6
+OK
+move 0 2
+move 1 3
+move 2 3
+move 3 2
+move 4 0
+move 5 3
+attack 5 1 8
+move 6 1
+attack 6 1 4
+move 7 1
+move 8 3
+attack 8 3 6
+move 9 0
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 1
+move 4 0
+move 5 1
+attack 5 1 3
+move 6 2
+move 7 1
+attack 7 1 8
+move 8 1
+attack 8 1 6
+move 9 0
+OK
+move 0 1
+move 1 3
+move 2 3
+move 3 1
+move 4 0
+move 5 3
+attack 5 1 3
+move 6 2
+move 7 3
+move 8 3
+move 9 2
+attack 9 2 1
+OK
 move 0 1
 attack 0 1 3
 move 1 2
 move 2 2
-attack 2 2 5
-move 3 2
-move 4 0
-move 6 0
-attack 8 2 1
-move 8 2
-attack 8 2 4
-move 9 3
-OK
-move 0 2
-attack 0 1 9
-move 1 2
-move 2 2
-move 3 2
-move 4 0
-move 6 0
-move 8 2
-attack 8 2 8
-move 9 3
-OK
-move 0 2
-attack 0 2 2
-move 1 2
-move 2 2
-attack 2 1 10
-move 3 2
-move 4 0
-move 6 0
-attack 8 1 10
-attack 8 0 3
-move 8 0
-attack 8 0 1
-move 9 3
-OK
-move 0 2
-attack 0 1 9
-move 1 2
-move 2 2
-move 3 2
-move 4 2
-move 6 0
-move 8 2
-move 9 3
-OK
-attack 0 2 7
-move 0 2
-attack 0 1 8
-move 1 2
-move 2 2
-attack 2 1 3
-move 3 2
-move 4 2
-move 6 0
-move 8 2
-attack 8 2 1
-move 9 3
-attack 9 3 9
-OK
-move 0 0
-move 1 2
-move 2 0
-move 3 2
-move 4 2
-move 6 3
-attack 8 1 9
-move 8 0
-attack 8 2 9
-attack 9 1 4
-move 9 3
-attack 9 3 10
-OK
-move 0 0
-move 1 2
-move 2 0
-move 3 2
-move 4 2
-attack 4 2 1
-move 6 3
-attack 8 0 6
-move 8 0
-attack 8 0 8
-move 9 0
-attack 9 3 3
-OK
-move 0 0
-attack 0 2 1
-move 1 2
-move 2 2
-move 3 2
-move 4 3
-move 6 3
-attack 8 2 9
-move 8 2
-attack 8 2 3
-attack 9 0 8
-move 9 3
-attack 9 3 8
-OK
-move 0 2
-attack 0 2 5
-move 1 2
-move 2 2
-move 3 2
-move 4 3
-attack 4 1 2
-move 6 3
-move 8 2
-attack 8 1 7
-attack 9 0 5
-move 9 3
-attack 9 3 8
-OK
-attack 0 0 5
-move 0 0
-attack 0 0 9
-move 1 2
-move 2 2
 move 3 1
-move 4 3
-move 6 3
-move 8 0
-attack 8 2 9
-move 9 3
-attack 9 1 6
-OK
-move 0 2
-move 1 2
-move 2 2
-attack 2 2 1
-move 3 1
-attack 3 1 8
-move 4 1
-attack 4 1 9
-move 6 3
-move 8 2
-attack 8 2 7
-move 9 3
-OK
-move 0 2
-move 1 2
-move 2 2
-move 3 0
-move 4 1
-attack 4 1 5
-move 6 3
-move 8 0
-attack 8 2 7
-move 9 3
-attack 9 3 4
-OK
-move 0 2
-move 1 2
-move 2 2
-move 3 2
-move 4 2
-move 6 3
-move 8 2
-attack 8 2 1
-move 9 0
-OK
-move 0 2
-move 1 2
-move 2 2
-move 3 2
-move 4 1
-attack 4 1 1
-move 6 3
-move 8 0
-attack 8 2 2
-move 9 0
-attack 9 0 3
-OK
-move 0 2
-move 1 2
-move 2 2
-attack 2 2 7
-move 3 2
 move 4 0
-move 6 3
-move 8 2
-attack 8 2 2
-attack 9 3 7
-move 9 0
-OK
-move 0 2
-attack 0 1 2
-move 1 2
-move 2 0
-attack 2 2 10
-move 3 2
-move 4 0
-move 6 3
-attack 8 0 2
-move 8 0
-attack 8 2 6
-move 9 0
-attack 9 2 10
-OK
-move 0 0
-move 1 2
-attack 1 2 7
-move 2 2
-move 3 0
-move 4 0
-move 6 3
-move 8 2
-attack 8 2 4
-move 9 2
-attack 9 2 2
-OK
-move 0 0
-move 1 0
-move 2 1
-move 3 0
-move 4 0
-move 6 3
-move 8 2
-attack 8 1 3
-move 9 0
-OK
-move 0 0
-move 1 0
-attack 1 0 6
-move 2 1
-move 3 0
-move 4 3
-attack 4 3 6
-move 6 3
-move 8 3
-move 9 0
-attack 9 2 8
-OK
-move 0 0
-move 1 0
-attack 1 2 6
-move 2 1
-move 3 0
-move 4 0
-move 6 3
+move 5 2
+move 6 2
+move 7 3
 move 8 3
 move 9 2
-attack 9 2 4
 OK
-move 0 3
-attack 0 3 9
-move 1 0
-attack 1 2 3
-move 2 1
+move 0 1
+attack 0 1 10
+move 1 2
+move 2 2
 move 3 2
+attack 3 2 1
 move 4 0
-move 6 3
+move 5 2
+move 6 2
+move 7 3
 move 8 3
-attack 8 3 2
-attack 9 0 8
 move 9 2
 attack 9 2 1
 OK
-move 0 0
-attack 0 3 9
-move 1 2
-attack 1 2 6
-move 2 1
-attack 2 1 1
-move 3 0
-move 4 2
-move 6 3
-move 8 2
-attack 9 1 8
-move 9 0
-attack 9 2 4
-OK
-move 0 3
-move 1 0
-move 2 3
-move 3 2
-move 4 2
-move 6 3
-move 8 1
-attack 9 0 10
-move 9 0
-attack 9 3 9
-OK
-move 0 3
-move 1 0
-move 2 3
-move 3 2
-move 4 2
-attack 4 2 4
-move 6 3
-move 8 1
-move 9 0
-OK
-move 0 3
-move 1 3
-move 2 3
-move 3 2
-attack 3 2 3
-move 4 2
-move 6 3
-move 8 1
-move 9 3
-attack 9 3 9
-OK
 move 0 1
-move 1 0
-move 2 3
-attack 2 1 3
-move 3 2
-attack 3 2 9
-move 4 2
-move 6 3
-move 8 1
-attack 8 1 10
-move 9 3
-attack 9 3 2
-OK
-move 0 3
-move 1 0
+attack 0 1 2
+move 1 2
 move 2 2
-attack 3 0 6
 move 3 2
-attack 3 2 8
-move 4 2
-move 6 3
-move 8 3
-attack 9 0 2
-move 9 3
-attack 9 1 3
-OK
-move 0 3
-move 1 0
-move 2 2
-move 3 3
-move 4 2
-attack 4 2 1
-move 6 3
+move 4 0
+move 5 2
+move 6 2
+move 7 3
 move 8 3
 move 9 0
 OK
-move 0 3
-move 1 0
+move 0 2
+attack 0 2 7
+move 1 2
 move 2 2
-move 3 1
-attack 3 1 7
-attack 4 1 1
+move 3 2
 move 4 0
-attack 4 2 5
-move 6 3
+move 5 2
+move 6 2
+move 7 3
 move 8 1
 attack 8 1 2
-move 9 3
-attack 9 3 3
+move 9 2
 OK
+move 0 2
+move 1 2
+move 2 2
+move 3 2
+attack 3 1 8
+move 4 0
+move 5 2
+move 6 2
+move 7 3
+attack 8 3 1
+move 8 3
+attack 8 1 1
+move 9 2
+attack 9 2 2
+OK
+move 0 2
+attack 0 2 6
+move 1 2
+move 2 2
+move 3 3
+move 4 3
+move 5 2
+move 6 2
+move 7 3
+move 8 3
+attack 8 1 1
+move 9 3
+OK
+attack 0 1 4
 move 0 3
+move 1 2
+move 2 2
+move 3 3
+move 4 3
+move 5 2
+move 6 2
+move 7 3
+attack 8 0 2
+move 8 3
+attack 8 1 1
+move 9 3
+OK
+move 0 1
+attack 0 1 6
+move 1 2
+move 2 2
+move 3 0
+move 4 3
+move 5 0
+move 6 0
+move 7 3
+move 8 0
+move 9 3
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 3
+move 4 3
+fuel 4 122
+move 5 0
+move 6 0
+move 7 3
+move 8 0
+move 9 3
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 3
+move 4 0
+move 5 0
+move 6 0
+move 7 3
+move 8 0
+move 9 3
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 3
+move 4 0
+move 5 0
+move 6 0
+move 7 3
+move 8 0
+move 9 3
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 3
+move 4 2
+move 5 0
+move 6 0
+move 7 3
+move 8 0
+move 9 3
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 3
+move 4 2
+move 5 0
+move 6 2
+move 7 3
+move 8 0
+move 9 3
+OK
+move 0 2
 move 1 0
 move 2 2
-move 3 1
-attack 3 1 10
+move 3 3
 move 4 2
-move 6 0
-move 8 3
+move 5 2
+move 6 2
+move 7 3
+move 8 2
 move 9 3
 OK
-move 0 3
+move 0 2
 move 1 0
-move 2 1
-move 3 0
-move 4 1
-attack 4 1 4
-move 6 3
-move 8 3
-move 9 3
-OK
-move 0 3
-move 1 3
-move 2 1
-move 3 0
+move 2 2
+move 3 3
+attack 3 3 2
 move 4 2
-attack 4 1 6
-move 6 3
-move 8 1
-move 9 3
-attack 9 1 6
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
 OK
-move 0 3
+move 0 2
 move 1 0
-move 2 1
+move 2 2
 move 3 0
 move 4 2
-move 6 3
-move 8 0
-move 9 0
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
 OK
-move 0 3
+move 0 2
 move 1 0
-move 2 1
-move 3 3
+move 2 2
+move 3 0
 move 4 2
-move 6 3
-move 8 0
-move 9 0
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
 OK
-move 0 3
+move 0 2
+attack 0 2 8
 move 1 0
-move 2 1
-move 3 3
+move 2 2
+move 3 0
 move 4 2
-move 6 3
-move 8 0
-move 9 0
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
 OK
-move 0 3
+move 0 2
+attack 0 1 4
 move 1 0
-move 2 1
-move 3 3
+move 2 2
+move 3 0
 move 4 2
-move 6 3
-move 8 0
-attack 8 3 5
-move 9 3
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
 OK
-move 0 3
+attack 0 0 7
+move 0 2
 move 1 0
-move 2 1
-move 3 3
+move 2 2
+move 3 0
 move 4 2
-move 6 3
-move 8 3
-move 9 3
-OK
-move 0 1
-move 1 0
-move 2 1
-move 3 3
-move 4 2
-move 6 3
-move 8 3
-move 9 3
-OK
-move 0 1
-move 1 0
-move 2 1
-move 3 3
-attack 3 3 5
-move 4 2
-move 6 3
+move 5 2
+move 6 2
+move 7 2
 move 8 2
 move 9 2
 OK
 move 0 1
 attack 0 1 4
-move 1 3
-move 2 1
-move 3 2
+move 1 0
+move 2 2
+move 3 0
 move 4 2
-move 6 3
+move 5 2
+move 6 2
+move 7 2
 move 8 2
 move 9 2
+OK
+attack 0 2 1
+move 0 2
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 2
+attack 0 1 2
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+move 8 2
+move 9 2
+OK
+move 0 1
+attack 0 1 10
+move 1 0
+move 2 0
+move 3 0
+move 4 2
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
 OK
 move 0 0
 move 1 3
-fuel 1 61
-move 2 1
-attack 2 1 10
-move 3 2
-move 4 1
-move 6 3
-move 8 2
-move 9 2
-OK
-move 0 2
-move 1 2
-move 2 1
-move 3 2
-move 4 1
-move 6 3
-move 8 1
-move 9 2
-OK
-move 0 2
-move 1 2
-move 2 1
-move 3 2
-move 4 1
-move 6 3
-move 8 1
-move 9 1
-OK
-move 0 2
-move 1 2
-move 2 1
-move 3 2
-move 4 1
-move 6 3
-move 8 1
-move 9 1
-OK
-move 0 2
-move 1 2
-move 2 1
-attack 2 1 3
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 8 1
-move 9 1
-OK
-move 0 2
-move 1 2
-move 2 3
-attack 2 1 4
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 8 1
-move 9 1
-OK
-move 0 2
-move 1 1
-move 2 3
-attack 2 1 3
-move 3 1
-move 4 1
-move 6 3
-move 7 2
-move 8 1
-move 9 1
-OK
-move 0 2
-move 1 1
-move 2 3
-attack 2 1 1
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 8 1
-move 9 1
-OK
-move 0 2
-fuel 0 183
-move 1 1
-move 2 1
-attack 2 1 4
-move 3 1
-move 4 1
-move 6 3
-move 7 2
-move 8 1
-move 9 1
-OK
-move 0 3
-move 1 1
-move 2 1
-attack 2 1 3
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 8 1
-move 9 1
-OK
-move 0 3
-move 1 1
-attack 2 2 9
-move 2 1
-attack 2 1 4
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 8 1
-move 9 1
-OK
-move 0 3
-move 1 1
-move 2 3
-move 3 1
-move 4 1
-move 6 3
-move 7 0
-move 8 1
-move 9 1
-OK
-move 0 3
-move 1 1
-move 2 1
-attack 2 1 3
-move 3 1
-attack 3 1 2
-move 4 2
-move 6 3
-move 7 0
-move 8 2
-move 9 1
-OK
-move 0 3
-move 1 2
-move 2 3
-attack 2 1 6
-move 3 1
-move 4 2
-move 6 3
-move 7 0
-move 8 2
-move 9 1
-OK
-move 0 1
-move 1 2
-move 2 3
-attack 2 1 4
-move 3 1
-attack 3 1 1
-move 4 2
-move 6 1
-fuel 6 129
-missile 6 94
-move 7 0
-move 8 2
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 3
-attack 2 1 6
-attack 3 2 1
-move 3 2
-attack 3 1 1
-move 4 2
-move 6 2
-move 7 0
-move 8 2
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 2
-move 3 2
-attack 3 1 2
-move 4 2
-move 6 2
-move 7 0
-move 8 2
-move 9 3
-OK
-move 0 1
-move 1 2
-move 2 2
-move 3 3
-move 4 2
-move 6 2
-move 7 0
-move 8 2
-attack 8 2 8
-move 9 3
-OK
-move 0 1
-move 1 2
-move 2 2
-move 3 3
-move 4 2
-move 6 2
-move 7 0
-move 8 2
-move 9 3
-OK
-move 0 1
-move 1 2
-move 2 2
-move 3 3
-attack 3 1 1
-move 4 2
-move 6 2
-move 7 0
-move 8 2
-attack 8 1 2
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 1
-attack 2 1 7
-move 3 2
-move 4 2
-move 6 2
-move 7 0
-move 8 3
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 1
-attack 2 1 8
-move 3 2
-move 4 2
-move 6 2
-move 7 0
-move 8 3
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 1
-attack 2 1 4
-move 3 2
-move 4 2
-move 6 2
-move 7 0
-move 8 1
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 2
-move 3 2
-move 4 2
-move 6 2
-move 7 0
-move 8 1
-move 9 2
-OK
-move 0 1
-move 1 2
-move 2 1
-attack 2 1 4
-move 3 2
-move 4 2
-move 6 2
-move 7 0
-move 8 1
-move 9 2
-OK
-move 0 1
-move 1 2
-attack 2 2 1
-move 2 2
-move 3 2
-attack 3 2 6
-move 4 2
-move 6 2
-move 7 0
-move 8 0
-move 9 0
-OK
-move 0 1
-move 1 2
-move 2 2
-attack 2 1 2
+move 2 0
 move 3 0
 move 4 2
-move 6 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-move 1 2
-move 2 3
+move 0 0
+move 1 3
+move 2 0
 move 3 0
 move 4 2
-move 6 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-move 1 2
-move 2 3
+move 0 0
+move 1 3
+move 2 0
 move 3 0
 move 4 2
-move 6 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-move 1 2
-move 2 3
+move 0 0
+move 1 3
+move 2 0
 move 3 0
 move 4 2
-move 6 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-move 1 2
-move 2 3
+move 0 0
+move 1 3
+move 2 0
 move 3 0
-move 4 1
-move 6 2
+move 4 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-move 1 1
-move 2 3
+move 0 0
+move 1 3
+fuel 1 60
+move 2 0
 move 3 0
-move 4 1
-move 6 2
+move 4 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-move 1 1
-move 2 1
-attack 2 1 10
+move 0 0
+move 1 0
+move 2 0
 move 3 0
-move 4 1
-move 6 2
+move 4 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 1
-attack 0 1 1
+move 0 0
+move 1 0
+move 2 0
+move 3 0
+move 4 2
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
+OK
+move 0 0
 move 1 2
 move 2 0
 move 3 0
 move 4 2
-move 6 2
+move 5 0
+move 6 0
 move 7 0
 move 8 0
 move 9 0
 OK
-move 0 2
-attack 0 2 2
+move 0 0
+move 1 2
+move 2 0
+move 3 0
+move 4 2
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
+OK
+move 0 0
+move 1 2
+move 2 0
+move 3 0
+move 4 2
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
+OK
+move 0 0
+move 1 2
+move 2 0
+move 3 0
+move 4 2
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
+OK
+move 0 0
+move 1 2
+move 2 0
+move 3 3
+move 4 2
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
+OK
+move 0 0
+move 1 2
+move 2 0
+move 3 3
+move 4 2
+attack 4 2 9
+move 5 0
+move 6 0
+move 7 0
+move 8 0
+move 9 0
+OK
+move 0 0
+move 1 0
+move 2 0
+move 3 3
+move 4 0
+attack 4 2 9
